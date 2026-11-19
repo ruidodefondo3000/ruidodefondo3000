@@ -1,10 +1,10 @@
 {
   "handle": "ruido.de.fondo.3000",
   "ig_url": "https://instagram.com/ruido.de.fondo.3000",
-  "generado": "2026-11-19T00:17:22-05:00",
-  "generado_legible": "19.11.2026 · 00:17",
+  "generado": "2026-11-19T08:59:48-05:00",
+  "generado_legible": "19.11.2026 · 08:59",
   "fuente": "Google Calendar · Música y Conciertos",
-  "total": 11,
+  "total": 12,
   "events": [
     {
       "slug": "disonantes-deminina",
@@ -47,6 +47,44 @@
       "gcal_link": "https://www.google.com/calendar/event?eid=MWtyaTRoZnUyNGk3djBzZHA5MjluMzNjY28gMDcxMjY4ZjFlNzFlNDkwODBiOGMxODExMjg0ODZjZDA0OGZlY2I5NWZlOTBkN2Y1MzdhNjg4ODQ3MzcxMmY1NUBn",
       "en_calendario": true,
       "descripcion_gcal": "Rock psicodélico instrumental. Deminina (Pichilemu, Chile) por primera vez en Lima.\n\nLineup: Deminina · Vate · Los Protones · Caleidoscopio · Eva y John · Cholo Visceral\n\nLugar: Terapia Café Bar — Jr. Carabaya 926, Lima\nDesde las 8 PM\nEntradas: Preventa S/10 · Puerta S/20 — Yape/Plin 997902587\nFeria de discos, fanzines y merch.\nIG: @mixuorecords @demininarock @terapiacafebar.pe\nPost: https://www.instagram.com/p/Df2Gg6dkQfN/"
+    },
+    {
+      "slug": "nofx-documental-2026",
+      "title": "NOFX: 40 YEARS OF FUCKIN' UP",
+      "subtitle": "Documental + Q&A con El Hefe",
+      "venue": "Centro Cultural PUCP",
+      "address": "Av. Camino Real 1075, San Isidro",
+      "district": "San Isidro",
+      "price": "Ver Joinnus",
+      "free": false,
+      "genres": [
+        "punk",
+        "documental"
+      ],
+      "tags": [
+        "Internacional",
+        "Cine",
+        "Meet & Greet"
+      ],
+      "lineup": [
+        "NOFX (documental)",
+        "Aaron 'El Hefe' Abeyta (Q&A)"
+      ],
+      "poster": "posters/real_nofx.jpg",
+      "tickets": "https://www.joinnus.com",
+      "ig_post": "https://www.instagram.com/p/Df0mi5-DyGz/",
+      "producers": [
+        "Good Crew",
+        "Destiny"
+      ],
+      "note": "Estreno exclusivo en Perú. Dos funciones (5PM y 8PM) con Q&A y meet & greet con El Hefe tras cada proyección. Capacidad limitada.",
+      "start": "2026-11-23T17:00:00-05:00",
+      "end": null,
+      "countdown": "EN 4 DÍAS",
+      "dias": 4,
+      "gcal_link": "",
+      "en_calendario": false,
+      "descripcion_gcal": ""
     },
     {
       "slug": "pueblo-libre-rockea-vol-ii",
@@ -382,7 +420,7 @@
       "venue": "Centro de Convenciones Festiva",
       "address": "Av. Alfonso Ugarte 1439, Cercado de Lima",
       "district": "Centro de Lima",
-      "price": "Early Bird S/149 · Passline",
+      "price": "Early Bird S/149 (últimas) · Exclusiva S/169 · Regular S/189",
       "price_from": 149,
       "free": false,
       "genres": [
@@ -405,13 +443,13 @@
       ],
       "poster": "../posters/kosmika.jpg",
       "tickets": "https://www.passline.com/eventos/kosmika-fest-en-lima",
-      "ig_post": "https://www.instagram.com/p/Df2je0qG5h6/",
+      "ig_post": "https://www.instagram.com/p/Df5C7OKltq-/",
       "producers": [
         "Lunar Music",
         "Peru Music Prod",
         "@banderolazoperu"
       ],
-      "note": "Preventa exclusiva 18-19 nov o hasta agotar stock. Precios sin comisión de ticketera. Explanada CC Festiva.",
+      "note": "Paradero Astral confirmada. Preventa exclusiva 18-19 nov o hasta agotar stock. Precios sin comisión de ticketera. Explanada CC Festiva. Preventa exclusiva 18-19 nov (S/169) o hasta agotar stock. Regular S/189 del 20 nov al 27 feb.",
       "start": "2027-02-27T15:00:00-05:00",
       "end": "2027-02-27T23:00:00-05:00",
       "countdown": "EN 3 MESES",

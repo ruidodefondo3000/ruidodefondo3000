@@ -124,7 +124,7 @@
       "venue": "Centro de Convenciones Festiva",
       "address": "Av. Alfonso Ugarte 1439, Cercado de Lima",
       "district": "Centro de Lima",
-      "price": "Early Bird S/149 · Passline",
+      "price": "Early Bird S/149 (últimas) · Exclusiva S/169 · Regular S/189",
       "price_from": 149,
       "free": false,
       "genres": [
@@ -147,13 +147,13 @@
       ],
       "poster": "../posters/kosmika.jpg",
       "tickets": "https://www.passline.com/eventos/kosmika-fest-en-lima",
-      "ig_post": "https://www.instagram.com/p/Df2je0qG5h6/",
+      "ig_post": "https://www.instagram.com/p/Df5C7OKltq-/",
       "producers": [
         "Lunar Music",
         "Peru Music Prod",
         "@banderolazoperu"
       ],
-      "note": "Preventa exclusiva 18-19 nov o hasta agotar stock. Precios sin comisión de ticketera. Explanada CC Festiva."
+      "note": "Paradero Astral confirmada. Preventa exclusiva 18-19 nov o hasta agotar stock. Precios sin comisión de ticketera. Explanada CC Festiva. Preventa exclusiva 18-19 nov (S/169) o hasta agotar stock. Regular S/189 del 20 nov al 27 feb."
     },
     {
       "match": "Nothing (US)",
@@ -390,6 +390,40 @@
         "Impala Live"
       ],
       "note": "Rock alternativo mexicano. Banda invitada: Cometa a la Deriva (también en Kósmika y Pogo)."
+    },
+    {
+      "match": "NOFX",
+      "slug": "nofx-documental-2026",
+      "title": "NOFX: 40 YEARS OF FUCKIN' UP",
+      "subtitle": "Documental + Q&A con El Hefe",
+      "venue": "Centro Cultural PUCP",
+      "address": "Av. Camino Real 1075, San Isidro",
+      "district": "San Isidro",
+      "price": "Ver Joinnus",
+      "free": false,
+      "genres": [
+        "punk",
+        "documental"
+      ],
+      "tags": [
+        "Internacional",
+        "Cine",
+        "Meet & Greet"
+      ],
+      "lineup": [
+        "NOFX (documental)",
+        "Aaron 'El Hefe' Abeyta (Q&A)"
+      ],
+      "poster": "posters/real_nofx.jpg",
+      "tickets": "https://www.joinnus.com",
+      "ig_post": "https://www.instagram.com/p/Df0mi5-DyGz/",
+      "producers": [
+        "Good Crew",
+        "Destiny"
+      ],
+      "note": "Estreno exclusivo en Perú. Dos funciones (5PM y 8PM) con Q&A y meet & greet con El Hefe tras cada proyección. Capacidad limitada.",
+      "start": "2026-11-23T17:00:00-05:00",
+      "manual": true
     }
   ]
 }
