@@ -226,6 +226,67 @@
         "@veltracmusicfest"
       ],
       "note": "Zona VIP 85% agotada. 15% dscto. con Interbank. Niños de 5 a 11 años entran gratis con un adulto."
+    },
+    {
+      "match": "ATAQUEMOS",
+      "slug": "ataquemos-2027",
+      "title": "ATAQUEMOS",
+      "subtitle": "Desde Santiago (Chile) — banda completa",
+      "venue": "Yield Rock",
+      "address": "Calle Manuel Bonilla 168, Miraflores, Lima",
+      "district": "Miraflores",
+      "price": "Preventa S/99 · Full S/109",
+      "price_from": 99,
+      "free": false,
+      "genres": [
+        "punk",
+        "rock"
+      ],
+      "tags": [
+        "Internacional"
+      ],
+      "lineup": [
+        "Ataquemos"
+      ],
+      "poster": "posters/real_ataquemos.jpg",
+      "tickets": "https://www.joinnus.com",
+      "ig_post": "https://www.instagram.com/p/Df2jFGfFO0Q/",
+      "producers": [
+        "511city",
+        "Yield Rock"
+      ],
+      "note": "Early Bird agotado. Precios incluyen comisión e IGV."
+    },
+    {
+      "match": "NARCOSIS",
+      "slug": "narcosis-2026",
+      "title": "NARCOSIS",
+      "subtitle": "Regreso único 2026 + Aeropajitas",
+      "venue": "Centro de Convenciones Festiva",
+      "address": "Av. Alfonso Ugarte 1439, Lima",
+      "district": "Lima",
+      "price": "Ver Ticketmaster",
+      "free": false,
+      "genres": [
+        "rock subterráneo",
+        "punk"
+      ],
+      "tags": [
+        "Nacional",
+        "Regreso"
+      ],
+      "lineup": [
+        "Narcosis",
+        "Aeropajitas"
+      ],
+      "poster": "posters/real_narcosis.jpg",
+      "tickets": "https://www.ticketmaster.pe",
+      "ig_post": "https://www.instagram.com/p/DfnShPCJRVM/",
+      "producers": [
+        "Stela Producciones",
+        "@biscuitbatik"
+      ],
+      "note": "Único concierto de Narcosis en 2026. Leyenda del rock subterráneo peruano (desde 1985)."
     }
   ]
 }
