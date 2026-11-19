@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#f2ede1">
+<meta name="description" content="Muro de afiches · Ruido de Fondo 3000">
+<title>RUIDO DE FONDO 3000 · Muro de afiches</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="mast">
+  <div class="mast-top">
+    <a class="mast-brand" href="https://instagram.com/ruido.de.fondo.3000" target="_blank" rel="noopener">RUIDO DE FONDO <b>3000</b></a>
+    <span class="mast-count"><span id="totalEvents">0</span> AFICHES</span>
+  </div>
+  <h1 class="mast-title">MURO<br>DE AFICHES</h1>
+  <p class="mast-sub">Tocá un afiche para verlo grande. Deslizá para recorrer el muro.</p>
+  <nav class="cuts" id="cuts" aria-label="Filtros"></nav>
+</header>
+
+<main class="wall" id="wall"></main>
+
+<footer class="colophon">
+  <p>RUIDO DE FONDO 3000 — música independiente, sin filtro.</p>
+  <p class="dim">Fuente: Google Calendar · <span id="stamp">—</span></p>
+  <a href="https://instagram.com/ruido.de.fondo.3000" target="_blank" rel="noopener">@ruido.de.fondo.3000 ↗</a>
+</footer>
+
+<div class="viewer" id="viewer" hidden>
+  <div class="viewer-bg" id="viewerBg"></div>
+  <figure class="viewer-frame" id="viewerFrame" role="dialog" aria-modal="true">
+    <button class="viewer-x" id="viewerX" type="button" aria-label="Cerrar">✕</button>
+    <button class="viewer-prev" id="viewerPrev" type="button" aria-label="Anterior">‹</button>
+    <img class="viewer-img" id="viewerImg" alt="">
+    <button class="viewer-next" id="viewerNext" type="button" aria-label="Siguiente">›</button>
+    <figcaption class="viewer-cap">
+      <div class="viewer-title" id="viewerTitle"></div>
+      <div class="viewer-meta" id="viewerMeta"></div>
+      <div class="viewer-links" id="viewerLinks"></div>
+    </figcaption>
+  </figure>
+</div>
+
+<script src="../data/events.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

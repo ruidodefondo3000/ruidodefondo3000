@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+<meta name="theme-color" content="#000000">
+<meta name="description" content="Historias de conciertos · Ruido de Fondo 3000">
+<title>RUIDO DE FONDO 3000 · Historias</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="stage" id="stage">
+  <!-- progreso -->
+  <div class="progress" id="progress"></div>
+
+  <!-- cabecera -->
+  <header class="head">
+    <a class="avatar" href="https://instagram.com/ruido.de.fondo.3000" target="_blank" rel="noopener" aria-label="Instagram">
+      <span class="avatar-ring"><span>R/F</span></span>
+      <span class="avatar-meta"><b>ruido.de.fondo.3000</b><i id="stamp">—</i></span>
+    </a>
+    <button class="mute" id="muteBtn" type="button" aria-label="Pausar avance" aria-pressed="false">❚❚</button>
+  </header>
+
+  <!-- fondo + contenido -->
+  <div class="bg" id="bg"></div>
+  <img class="bg-main" id="bgMain" alt="">
+  <div class="bg-shade"></div>
+
+  <div class="tap-left" id="tapLeft" aria-hidden="true"></div>
+  <div class="tap-right" id="tapRight" aria-hidden="true"></div>
+
+  <main class="story" id="story">
+    <div class="kicker" id="sKicker"></div>
+    <h1 class="title" id="sTitle"></h1>
+    <p class="sub" id="sSub"></p>
+    <div class="chips" id="sChips"></div>
+    <div class="facts">
+      <div class="fact"><span>CUÁNDO</span><b id="sWhen"></b></div>
+      <div class="fact"><span>DÓNDE</span><b id="sWhere"></b></div>
+      <div class="fact"><span>ENTRADA</span><b id="sPrice"></b></div>
+    </div>
+  </main>
+
+  <!-- swipe up -->
+  <div class="sheet" id="sheet" hidden>
+    <div class="sheet-bg" id="sheetBg"></div>
+    <div class="sheet-card" id="sheetCard" role="dialog" aria-modal="true">
+      <button class="sheet-x" id="sheetX" type="button" aria-label="Cerrar">✕</button>
+      <div class="sheet-grip"></div>
+      <h2 class="sheet-title" id="shTitle"></h2>
+      <div class="sheet-lineup" id="shLineup"></div>
+      <p class="sheet-note" id="shNote"></p>
+      <div class="sheet-links" id="shLinks"></div>
+    </div>
+  </div>
+
+  <button class="cta" id="ctaBtn" type="button">
+    <span class="cta-arrow">↑</span><span id="ctaTxt">DESLIZÁ PARA DETALLES Y ENTRADAS</span>
+  </button>
+</div>
+
+<script src="../data/events.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,269 @@
+{
+  "handle": "ruido.de.fondo.3000",
+  "ig_url": "https://instagram.com/ruido.de.fondo.3000",
+  "generado": "2026-11-18T23:38:13-05:00",
+  "generado_legible": "18.11.2026 · 23:38",
+  "fuente": "Google Calendar · Música y Conciertos",
+  "total": 6,
+  "events": [
+    {
+      "slug": "disonantes-deminina",
+      "title": "DISONANTES",
+      "subtitle": "Deminina (Chile) + 5 bandas",
+      "venue": "Terapia Café Bar",
+      "address": "Jr. Carabaya 926, Cercado de Lima",
+      "district": "Centro de Lima",
+      "price": "Preventa S/10 · Puerta S/20",
+      "price_from": 10,
+      "free": false,
+      "genres": [
+        "rock psicodélico",
+        "instrumental"
+      ],
+      "tags": [
+        "En vivo",
+        "Feria de discos"
+      ],
+      "lineup": [
+        "Deminina",
+        "Vate",
+        "Los Protones",
+        "Caleidoscopio",
+        "Eva y John",
+        "Cholo Visceral"
+      ],
+      "poster": "../posters/real_disonantes.jpg",
+      "tickets": null,
+      "ig_post": "https://www.instagram.com/p/Df2Gg6dkQfN/",
+      "producers": [
+        "@mixuorecords",
+        "@terapiacafebar.pe"
+      ],
+      "note": "Rock psicodélico instrumental. Deminina (Pichilemu, Chile) por primera vez en Lima. Feria de discos, fanzines y merch.",
+      "start": "2026-11-21T20:00:00-05:00",
+      "end": "2026-11-22T01:00:00-05:00",
+      "countdown": "EN 3 DÍAS",
+      "dias": 3,
+      "gcal_link": "https://www.google.com/calendar/event?eid=MWtyaTRoZnUyNGk3djBzZHA5MjluMzNjY28gMDcxMjY4ZjFlNzFlNDkwODBiOGMxODExMjg0ODZjZDA0OGZlY2I5NWZlOTBkN2Y1MzdhNjg4ODQ3MzcxMmY1NUBn",
+      "en_calendario": true,
+      "descripcion_gcal": "Rock psicodélico instrumental. Deminina (Pichilemu, Chile) por primera vez en Lima.\n\nLineup: Deminina · Vate · Los Protones · Caleidoscopio · Eva y John · Cholo Visceral\n\nLugar: Terapia Café Bar — Jr. Carabaya 926, Lima\nDesde las 8 PM\nEntradas: Preventa S/10 · Puerta S/20 — Yape/Plin 997902587\nFeria de discos, fanzines y merch.\nIG: @mixuorecords @demininarock @terapiacafebar.pe\nPost: https://www.instagram.com/p/Df2Gg6dkQfN/"
+    },
+    {
+      "slug": "pueblo-libre-rockea-vol-ii",
+      "title": "PUEBLO LIBRE ROCKEA",
+      "subtitle": "Vol. II — 40 Gramos + 9 bandas",
+      "venue": "Skate Plaza, Parque 3 de Octubre",
+      "address": "Gral. M. Vivanco Cdra. 5, Pueblo Libre",
+      "district": "Pueblo Libre",
+      "price": "GRATIS",
+      "price_from": 0,
+      "free": true,
+      "genres": [
+        "punk",
+        "hardcore peruano"
+      ],
+      "tags": [
+        "Gratis",
+        "Festival",
+        "Al aire libre"
+      ],
+      "lineup": [
+        "40 Gramos",
+        "D-73",
+        "Post Kaos",
+        "El Terrible y los Cenobitas",
+        "Waraka Punk",
+        "Coyote",
+        "Kódigo Civil",
+        "Obturador",
+        "Marfilia",
+        "Seres Ajenos",
+        "Pía Logonz"
+      ],
+      "poster": "../posters/rockea.jpg",
+      "tickets": null,
+      "ig_post": "https://www.instagram.com/p/Df3Ey53HV27/",
+      "producers": [
+        "d73.pe",
+        "La Sala de Rick",
+        "@festi_rock_peru"
+      ],
+      "note": "Festival de música independiente al aire libre. Ingreso libre, todo el día.",
+      "start": "2026-11-28T16:00:00-05:00",
+      "end": "2026-11-28T23:00:00-05:00",
+      "countdown": "EN 1 SEMANAS",
+      "dias": 10,
+      "gcal_link": "",
+      "en_calendario": false,
+      "descripcion_gcal": ""
+    },
+    {
+      "slug": "machine-girl-vol-ii",
+      "title": "MACHINE GIRL",
+      "subtitle": "vol. II — breakcore",
+      "venue": "Yield Rock",
+      "address": "Jr. Carabaya 815, Cercado de Lima",
+      "district": "Centro de Lima",
+      "price": "Preventa S/179 · Full S/199",
+      "price_from": 179,
+      "free": false,
+      "genres": [
+        "breakcore",
+        "electrónica"
+      ],
+      "tags": [
+        "Internacional",
+        "-18 con adulto"
+      ],
+      "lineup": [
+        "Machine Girl",
+        "Carly"
+      ],
+      "poster": "../posters/real_machinegirl.jpg",
+      "tickets": "https://www.joinnus.com/events/art-culture/lima-machine-girl-en-lima-78067",
+      "ig_post": "https://www.instagram.com/reel/Df5GWx1O5xh/",
+      "producers": [
+        "511 City",
+        "511 Underground",
+        "@carlycore_"
+      ],
+      "note": "Segunda visita de Machine Girl a Lima. 20% OFF con código CARLY en Joinnus.",
+      "start": "2026-12-03T20:00:00-05:00",
+      "end": "2026-12-04T01:00:00-05:00",
+      "countdown": "EN 2 SEMANAS",
+      "dias": 15,
+      "gcal_link": "https://www.google.com/calendar/event?eid=ZzEwbjltOGJoc2lic3VyMnJibHE0NGZuMTAgMDcxMjY4ZjFlNzFlNDkwODBiOGMxODExMjg0ODZjZDA0OGZlY2I5NWZlOTBkN2Y1MzdhNjg4ODQ3MzcxMmY1NUBn",
+      "en_calendario": true,
+      "descripcion_gcal": "Breakcore. Machine Girl vuelve a Lima por segunda vez (vol. II).\n\nTelonera: Carly (@carlycore_) — la que publicó el anuncio.\n\nLugar: Yield Rock — Jr. Carabaya 815, Cercado de Lima\nFecha: jueves 3 de diciembre 2026, 8:00 PM\nEdad: -18 acompañado de adulto\n\nEntradas (Joinnus):\n· Preventa S/ 179.00\n· Full S/ 199.00\n· 20% OFF con código CARLY en la web de Joinnus\n\nhttps://www.joinnus.com/events/art-culture/lima-machine-girl-en-lima-78067\nProduce: 511 City / 511 Underground\nIG: @511city @carlycore_ @yieldrock\nPost: https://www.instagram.com/reel/Df5GWx1O5xh/"
+    },
+    {
+      "slug": "veltrac-2026",
+      "title": "VELTRAC MUSIC FESTIVAL",
+      "subtitle": "5° edición — New Order + 10 artistas",
+      "venue": "Costa 21",
+      "address": "Circuito de Playas / San Miguel, Lima",
+      "district": "San Miguel",
+      "price": "General S/305 · VIP S/485",
+      "price_from": 305,
+      "free": false,
+      "genres": [
+        "indie",
+        "pop",
+        "electrónica",
+        "rock alternativo"
+      ],
+      "tags": [
+        "Festival",
+        "Internacional"
+      ],
+      "lineup": [
+        "New Order",
+        "Of Monsters and Men",
+        "Bandalos Chinos",
+        "American Football",
+        "Silvana Estrada",
+        "Javiera Mena",
+        "Juana Aguirre",
+        "Piel Camaleón",
+        "Peces Raros",
+        "Skillbea",
+        "A.E."
+      ],
+      "poster": "../posters/real_veltrac.jpg",
+      "tickets": "https://teleticket.com.pe",
+      "ig_post": "https://www.instagram.com/p/Df5rHcAm7Og/",
+      "producers": [
+        "Veltrac",
+        "@veltracmusicfest"
+      ],
+      "note": "Zona VIP 85% agotada. 15% dscto. con Interbank. Niños de 5 a 11 años entran gratis con un adulto.",
+      "start": "2026-12-05T15:00:00-05:00",
+      "end": "2026-12-05T23:00:00-05:00",
+      "countdown": "EN 2 SEMANAS",
+      "dias": 17,
+      "gcal_link": "https://www.google.com/calendar/event?eid=ODFkOWI4YWtqbXZpbmcybHZwZjNnZTJsZTQgMDcxMjY4ZjFlNzFlNDkwODBiOGMxODExMjg0ODZjZDA0OGZlY2I5NWZlOTBkN2Y1MzdhNjg4ODQ3MzcxMmY1NUBn",
+      "en_calendario": true,
+      "descripcion_gcal": "Festival. 5° edición del Veltrac Music Festival.\n\nLineup: New Order · Of Monsters and Men · Bandalos Chinos · American Football · Silvana Estrada · Javiera Mena · Juana Aguirre · Piel Camaleón · Peces Raros (invitado especial) · Skillbea · A.E.\n\nLugar: Costa 21 — Circuito de Playas / San Miguel, Lima\nFecha: sábado 5 de diciembre 2026\nHora: NO publicada en el anuncio (puse 15:00 como supuesto)\nEntradas (Teleticket): Isla VIP S/485 (15% Interbank S/412.25, ¡85% agotada!) · General S/305 (15% S/259.25) · Conadis S/244. Niños 5-11 gratis con adulto.\nProduce: Veltrac / @veltracmusicfest\nIG: @veltracmusicfest\nPost: https://www.instagram.com/p/Df5rHcAm7Og/"
+    },
+    {
+      "slug": "kosmika-2027",
+      "title": "KÓSMIKA 2027",
+      "subtitle": "Los Vaguens (MX) + Ruby Tates, Muckers, Los Outsaiders",
+      "venue": "Centro de Convenciones Festiva",
+      "address": "Av. Alfonso Ugarte 1439, Cercado de Lima",
+      "district": "Centro de Lima",
+      "price": "Passline — por anunciar",
+      "price_from": null,
+      "free": false,
+      "genres": [
+        "indie",
+        "rock alternativo"
+      ],
+      "tags": [
+        "Festival",
+        "Internacional"
+      ],
+      "lineup": [
+        "Los Vaguens",
+        "Ruby Tates",
+        "Muckers",
+        "Los Outsaiders"
+      ],
+      "poster": "../posters/kosmika.jpg",
+      "tickets": "https://www.passline.com",
+      "ig_post": "https://www.instagram.com/p/Df2iwoxpZIU/",
+      "producers": [
+        "Lunar Music",
+        "Peru Music Prod",
+        "@banderolazoperu"
+      ],
+      "note": "Los Vaguens (México) por primera vez en Lima. Hora oficial aún no publicada.",
+      "start": "2027-02-27T15:00:00-05:00",
+      "end": "2027-02-27T23:00:00-05:00",
+      "countdown": "EN 3 MESES",
+      "dias": 101,
+      "gcal_link": "https://www.google.com/calendar/event?eid=cXZsOW5qZXFmcm8zY3JjaDRhcXJsbTlubGMgMDcxMjY4ZjFlNzFlNDkwODBiOGMxODExMjg0ODZjZDA0OGZlY2I5NWZlOTBkN2Y1MzdhNjg4ODQ3MzcxMmY1NUBn",
+      "en_calendario": true,
+      "descripcion_gcal": "Festival. Los Vaguens (México) como cabeza de cartel, primera vez en Lima.\n\nLineup: Los Vaguens · Ruby Tates · Muckers · Los Outsaiders (y más por confirmar)\n\nLugar: Centro de Convenciones Festiva — Av. Alfonso Ugarte 1439, Cercado de Lima\nFecha: sábado 27 de febrero 2027\nHora: NO publicada en el anuncio (puse 15:00 como supuesto)\nEntradas: Passline — https://www.passline.com\nProduce: Lunar Music / Peru Music Prod\nIG: @banderolazoperu @losvaguens @ccfestivaoficial @passline.pe\nPost: https://www.instagram.com/p/Df2iwoxpZIU/"
+    },
+    {
+      "slug": "nothing-us-2027",
+      "title": "NOTHING",
+      "subtitle": "A Short History of Decay · gira 2027",
+      "venue": "Vichama Conciertos",
+      "address": "Jr. Carabaya 954, Lima",
+      "district": "Centro de Lima",
+      "price": "Joinnus — aún no publicadas",
+      "price_from": null,
+      "free": false,
+      "genres": [
+        "shoegaze",
+        "dream pop"
+      ],
+      "tags": [
+        "Internacional",
+        "+18"
+      ],
+      "lineup": [
+        "Nothing",
+        "Mi Mochila Huele a Muerte"
+      ],
+      "poster": "../posters/real_nothing.jpg",
+      "tickets": "https://www.joinnus.com",
+      "ig_post": "https://www.instagram.com/p/DfcWM-MAAGZ/",
+      "producers": [
+        "@holarango",
+        "@prsnt_pe",
+        "@festivalbizarro"
+      ],
+      "note": "Nothing (Filadelfia) presenta su quinto álbum. A media cuadra de Plaza San Martín.",
+      "start": "2027-02-28T20:00:00-05:00",
+      "end": "2027-03-01T00:00:00-05:00",
+      "countdown": "EN 3 MESES",
+      "dias": 102,
+      "gcal_link": "https://www.google.com/calendar/event?eid=cTJmcTY0cHBqYm9tZmtpbjBhamd1bmU3bjAgMDcxMjY4ZjFlNzFlNDkwODBiOGMxODExMjg0ODZjZDA0OGZlY2I5NWZlOTBkN2Y1MzdhNjg4ODQ3MzcxMmY1NUBn",
+      "en_calendario": true,
+      "descripcion_gcal": "Shoegaze. Nothing (Filadelfia, EE.UU.) regresa a Perú a presentar su quinto álbum A Short History of Decay (2026).\n\nInvitada: Mi Mochila Huele a Muerte (proyecto peruano, antes Mi Mochila Huele a S*men)\n\nLugar: Vichama Conciertos — Jr. Carabaya 954, Lima (a media cuadra de Plaza San Martín)\nHora: 8:00 PM\n+18\nEntradas: Joinnus — aún no publicadas al 18-nov-2026\nProducción: @holarango @prsnt_pe @festivalbizarro\nPost: https://www.instagram.com/p/DfcWM-MAAGZ/\n\nNotas de la gira: Lima 28-feb, São Paulo 6-mar (Fabrique Club)."
+    }
+  ]
+}

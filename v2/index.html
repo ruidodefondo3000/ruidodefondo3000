@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#08070c">
+<title>RUIDO DE FONDO 3000 · Radar de fechas</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=JetBrains+Mono:wght@400;700&family=Archivo:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="glow g1" aria-hidden="true"></div>
+<div class="glow g2" aria-hidden="true"></div>
+<div class="scan" aria-hidden="true"></div>
+
+<header class="hdr">
+  <div class="hdr-row">
+    <div class="logo" id="logo">
+      <span class="l1">RUIDO</span>
+      <span class="l2">de fondo</span>
+      <span class="l3">3000</span>
+    </div>
+    <a class="ig-btn" href="https://instagram.com/ruido.de.fondo.3000" target="_blank" rel="noopener" aria-label="Instagram">IG ↗</a>
+  </div>
+  <div class="hdr-meta">
+    <span><b id="nEvents">0</b> fechas</span>
+    <span class="sep">/</span>
+    <span>LIMA · PE</span>
+    <span class="sep">/</span>
+    <span class="sync" id="syncTxt">sync…</span>
+  </div>
+</header>
+
+<section class="radar">
+  <div class="radar-label">PRÓXIMA FECHA</div>
+  <a class="feat" id="feat" href="#">
+    <div class="feat-date">
+      <span class="fd-num" id="fdNum">00</span>
+      <span class="fd-mon" id="fdMon">—</span>
+    </div>
+    <div class="feat-body">
+      <h2 class="feat-title" id="fdTitle">—</h2>
+      <p class="feat-sub" id="fdSub"></p>
+      <div class="feat-chips" id="fdChips"></div>
+    </div>
+    <div class="feat-go">→</div>
+  </a>
+  <div class="radar-bars" id="radarBars" aria-hidden="true"></div>
+</section>
+
+<div class="months" id="months" role="tablist" aria-label="Meses"></div>
+
+<main class="timeline" id="timeline"></main>
+
+<footer class="ftr">
+  <div class="ftr-mark">RUIDO DE FONDO <span>3000</span></div>
+  <p>Agenda de música independiente curada a mano.<br>Fuente: Google Calendar · actualizado <span id="stamp">—</span></p>
+  <a href="https://instagram.com/ruido.de.fondo.3000" target="_blank" rel="noopener">@ruido.de.fondo.3000</a>
+</footer>
+
+<div class="modal" id="modal" hidden>
+  <div class="modal-bg" id="modalBg"></div>
+  <div class="modal-card" id="modalCard" role="dialog" aria-modal="true">
+    <button class="modal-x" id="modalX" aria-label="Cerrar">✕</button>
+    <div class="mc-top">
+      <div class="mc-date"><span id="mcDay">00</span><span id="mcMon">—</span></div>
+      <div class="mc-cd" id="mcCd"></div>
+    </div>
+    <h2 class="mc-title" id="mcTitle"></h2>
+    <p class="mc-sub" id="mcSub"></p>
+    <div class="mc-chips" id="mcChips"></div>
+    <div class="mc-rows" id="mcRows"></div>
+    <p class="mc-note" id="mcNote"></p>
+    <div class="mc-actions" id="mcActions"></div>
+  </div>
+</div>
+
+<script src="../data/events.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

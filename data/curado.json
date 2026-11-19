@@ -1,0 +1,231 @@
+{
+  "_nota": "Datos estructurados de cada evento. build.py los cruza con el calendario 'Música y Conciertos'. Los que tienen 'manual: true' se agregan aunque no estén en Google Calendar.",
+  "handle": "ruido.de.fondo.3000",
+  "events": [
+    {
+      "match": "DISONANTES",
+      "slug": "disonantes-deminina",
+      "title": "DISONANTES",
+      "subtitle": "Deminina (Chile) + 5 bandas",
+      "venue": "Terapia Café Bar",
+      "address": "Jr. Carabaya 926, Cercado de Lima",
+      "district": "Centro de Lima",
+      "price": "Preventa S/10 · Puerta S/20",
+      "price_from": 10,
+      "free": false,
+      "genres": [
+        "rock psicodélico",
+        "instrumental"
+      ],
+      "tags": [
+        "En vivo",
+        "Feria de discos"
+      ],
+      "lineup": [
+        "Deminina",
+        "Vate",
+        "Los Protones",
+        "Caleidoscopio",
+        "Eva y John",
+        "Cholo Visceral"
+      ],
+      "poster": "../posters/real_disonantes.jpg",
+      "tickets": null,
+      "ig_post": "https://www.instagram.com/p/Df2Gg6dkQfN/",
+      "producers": [
+        "@mixuorecords",
+        "@terapiacafebar.pe"
+      ],
+      "note": "Rock psicodélico instrumental. Deminina (Pichilemu, Chile) por primera vez en Lima. Feria de discos, fanzines y merch."
+    },
+    {
+      "manual": true,
+      "slug": "pueblo-libre-rockea-vol-ii",
+      "start": "2026-11-28T16:00:00-05:00",
+      "end": "2026-11-28T23:00:00-05:00",
+      "title": "PUEBLO LIBRE ROCKEA",
+      "subtitle": "Vol. II — 40 Gramos + 9 bandas",
+      "venue": "Skate Plaza, Parque 3 de Octubre",
+      "address": "Gral. M. Vivanco Cdra. 5, Pueblo Libre",
+      "district": "Pueblo Libre",
+      "price": "GRATIS",
+      "price_from": 0,
+      "free": true,
+      "genres": [
+        "punk",
+        "hardcore peruano"
+      ],
+      "tags": [
+        "Gratis",
+        "Festival",
+        "Al aire libre"
+      ],
+      "lineup": [
+        "40 Gramos",
+        "D-73",
+        "Post Kaos",
+        "El Terrible y los Cenobitas",
+        "Waraka Punk",
+        "Coyote",
+        "Kódigo Civil",
+        "Obturador",
+        "Marfilia",
+        "Seres Ajenos",
+        "Pía Logonz"
+      ],
+      "poster": "../posters/rockea.jpg",
+      "tickets": null,
+      "ig_post": "https://www.instagram.com/p/Df3Ey53HV27/",
+      "producers": [
+        "d73.pe",
+        "La Sala de Rick",
+        "@festi_rock_peru"
+      ],
+      "note": "Festival de música independiente al aire libre. Ingreso libre, todo el día."
+    },
+    {
+      "match": "MACHINE GIRL",
+      "slug": "machine-girl-vol-ii",
+      "title": "MACHINE GIRL",
+      "subtitle": "vol. II — breakcore",
+      "venue": "Yield Rock",
+      "address": "Jr. Carabaya 815, Cercado de Lima",
+      "district": "Centro de Lima",
+      "price": "Preventa S/179 · Full S/199",
+      "price_from": 179,
+      "free": false,
+      "genres": [
+        "breakcore",
+        "electrónica"
+      ],
+      "tags": [
+        "Internacional",
+        "-18 con adulto"
+      ],
+      "lineup": [
+        "Machine Girl",
+        "Carly"
+      ],
+      "poster": "../posters/real_machinegirl.jpg",
+      "tickets": "https://www.joinnus.com/events/art-culture/lima-machine-girl-en-lima-78067",
+      "ig_post": "https://www.instagram.com/reel/Df5GWx1O5xh/",
+      "producers": [
+        "511 City",
+        "511 Underground",
+        "@carlycore_"
+      ],
+      "note": "Segunda visita de Machine Girl a Lima. 20% OFF con código CARLY en Joinnus."
+    },
+    {
+      "match": "KÓSMIKA",
+      "slug": "kosmika-2027",
+      "title": "KÓSMIKA 2027",
+      "subtitle": "Los Vaguens (MX) + Ruby Tates, Muckers, Los Outsaiders",
+      "venue": "Centro de Convenciones Festiva",
+      "address": "Av. Alfonso Ugarte 1439, Cercado de Lima",
+      "district": "Centro de Lima",
+      "price": "Passline — por anunciar",
+      "price_from": null,
+      "free": false,
+      "genres": [
+        "indie",
+        "rock alternativo"
+      ],
+      "tags": [
+        "Festival",
+        "Internacional"
+      ],
+      "lineup": [
+        "Los Vaguens",
+        "Ruby Tates",
+        "Muckers",
+        "Los Outsaiders"
+      ],
+      "poster": "../posters/kosmika.jpg",
+      "tickets": "https://www.passline.com",
+      "ig_post": "https://www.instagram.com/p/Df2iwoxpZIU/",
+      "producers": [
+        "Lunar Music",
+        "Peru Music Prod",
+        "@banderolazoperu"
+      ],
+      "note": "Los Vaguens (México) por primera vez en Lima. Hora oficial aún no publicada."
+    },
+    {
+      "match": "Nothing (US)",
+      "slug": "nothing-us-2027",
+      "title": "NOTHING",
+      "subtitle": "A Short History of Decay · gira 2027",
+      "venue": "Vichama Conciertos",
+      "address": "Jr. Carabaya 954, Lima",
+      "district": "Centro de Lima",
+      "price": "Joinnus — aún no publicadas",
+      "price_from": null,
+      "free": false,
+      "genres": [
+        "shoegaze",
+        "dream pop"
+      ],
+      "tags": [
+        "Internacional",
+        "+18"
+      ],
+      "lineup": [
+        "Nothing",
+        "Mi Mochila Huele a Muerte"
+      ],
+      "poster": "../posters/real_nothing.jpg",
+      "tickets": "https://www.joinnus.com",
+      "ig_post": "https://www.instagram.com/p/DfcWM-MAAGZ/",
+      "producers": [
+        "@holarango",
+        "@prsnt_pe",
+        "@festivalbizarro"
+      ],
+      "note": "Nothing (Filadelfia) presenta su quinto álbum. A media cuadra de Plaza San Martín."
+    },
+    {
+      "match": "VELTRAC",
+      "slug": "veltrac-2026",
+      "title": "VELTRAC MUSIC FESTIVAL",
+      "subtitle": "5° edición — New Order + 10 artistas",
+      "venue": "Costa 21",
+      "address": "Circuito de Playas / San Miguel, Lima",
+      "district": "San Miguel",
+      "price": "General S/305 · VIP S/485",
+      "price_from": 305,
+      "free": false,
+      "genres": [
+        "indie",
+        "pop",
+        "electrónica",
+        "rock alternativo"
+      ],
+      "tags": [
+        "Festival",
+        "Internacional"
+      ],
+      "lineup": [
+        "New Order",
+        "Of Monsters and Men",
+        "Bandalos Chinos",
+        "American Football",
+        "Silvana Estrada",
+        "Javiera Mena",
+        "Juana Aguirre",
+        "Piel Camaleón",
+        "Peces Raros",
+        "Skillbea",
+        "A.E."
+      ],
+      "poster": "../posters/real_veltrac.jpg",
+      "tickets": "https://teleticket.com.pe",
+      "ig_post": "https://www.instagram.com/p/Df5rHcAm7Og/",
+      "producers": [
+        "Veltrac",
+        "@veltracmusicfest"
+      ],
+      "note": "Zona VIP 85% agotada. 15% dscto. con Interbank. Niños de 5 a 11 años entran gratis con un adulto."
+    }
+  ]
+}

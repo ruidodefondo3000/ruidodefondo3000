@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#060508">
+<meta name="description" content="Agenda sonora de conciertos y eventos · Ruido de Fondo 3000">
+<title>RUIDO DE FONDO 3000 · Agenda Sonora</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Mono:wght@400;500&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="universe" aria-hidden="true">
+  <div class="orb orb-a"></div>
+  <div class="orb orb-b"></div>
+  <div class="grid-floor"></div>
+  <canvas id="viz"></canvas>
+</div>
+
+<header class="top">
+  <a class="sigil" href="https://instagram.com/ruido.de.fondo.3000" target="_blank" rel="noopener" aria-label="Instagram">
+    <span class="sigil-mark">R<span>／</span>F</span>
+    <span class="sigil-sub">3000</span>
+  </a>
+  <div class="top-actions">
+    <button class="sound-toggle" id="soundToggle" aria-label="Activar sonido" aria-pressed="false">
+      <span class="eq"><i></i><i></i><i></i><i></i></span>
+      <span class="sound-label">SONIDO OFF</span>
+    </button>
+  </div>
+</header>
+
+<section class="intro">
+  <div class="eyebrow">AGENDA SONORA · LIMA · <span id="totalEvents">0</span> FECHAS</div>
+  <h1 class="mega" aria-label="Calendario"><span>CALEN</span><span>DARIO</span></h1>
+  <p class="lede">Cada evento suena distinto.<br>Tocá uno y escuchalo.</p>
+  <div class="hint"><span class="hint-dot"></span> TOCÁ UNA FECHA PARA ESCUCHARLA</div>
+</section>
+
+<nav class="rail" id="rail" aria-label="Filtros"></nav>
+
+<main class="deck" id="deck"></main>
+
+<footer class="foot">
+  <div class="foot-rule"></div>
+  <p>RUIDO DE FONDO 3000 — música independiente, sin filtro.</p>
+  <p class="dim">Fuente: Google Calendar · <span id="stamp">—</span></p>
+  <a href="https://instagram.com/ruido.de.fondo.3000" target="_blank" rel="noopener">@ruido.de.fondo.3000 ↗</a>
+</footer>
+
+<div class="overlay" id="overlay" hidden>
+  <div class="veil" id="veil"></div>
+  <article class="stage" id="stage" role="dialog" aria-modal="true">
+    <button class="stage-close" id="stageClose" aria-label="Cerrar">✕</button>
+
+    <div class="stage-hero">
+      <canvas class="stage-viz" id="stageViz"></canvas>
+      <div class="stage-hero-content">
+        <div class="stage-cd" id="stageCd"></div>
+        <h2 class="stage-title" id="stageTitle"></h2>
+        <p class="stage-sub" id="stageSub"></p>
+      </div>
+      <button class="stage-play" id="stagePlay" type="button"><span class="play-ico">▶</span><span id="playTxt">ESCUCHAR</span></button>
+    </div>
+
+    <div class="stage-body" id="stageBody"></div>
+  </article>
+</div>
+
+<script src="../data/events.js"></script>
+<script src="audio.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

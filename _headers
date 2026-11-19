@@ -1,0 +1,8 @@
+/*
+  Cache-Control: public, max-age=300
+/data/events.js
+  Cache-Control: public, max-age=600
+/data/events.json
+  Cache-Control: public, max-age=600
+/posters/*
+  Cache-Control: public, max-age=86400
