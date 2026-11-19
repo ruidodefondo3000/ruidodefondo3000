@@ -1,11 +1,91 @@
 {
   "handle": "ruido.de.fondo.3000",
   "ig_url": "https://instagram.com/ruido.de.fondo.3000",
-  "generado": "2026-11-19T09:11:03-05:00",
-  "generado_legible": "19.11.2026 · 09:11",
+  "generado": "2026-11-19T09:13:34-05:00",
+  "generado_legible": "19.11.2026 · 09:13",
   "fuente": "Google Calendar · Música y Conciertos",
-  "total": 13,
+  "total": 17,
   "events": [
+    {
+      "slug": "quilcazo-17",
+      "title": "VIERNES QUILCAZO XVII",
+      "subtitle": "6 bandas + micro libre",
+      "venue": "I Wanna Rock",
+      "address": "Jr. Juan Gregorio de las Heras 219, Lince",
+      "district": "Lince",
+      "price": "ENTRADA LIBRE",
+      "free": true,
+      "genres": [
+        "rock",
+        "ska",
+        "punk"
+      ],
+      "tags": [
+        "Gratis"
+      ],
+      "lineup": [
+        "El Pollo Ska",
+        "Capula",
+        "Distrito Gris",
+        "Santa Agonía",
+        "Gálvez y el Tren de Comas",
+        "WildCats"
+      ],
+      "poster": "posters/real_quilcazo.jpg",
+      "tickets": null,
+      "ig_post": "https://www.instagram.com/p/Df6RTi5Dt7S/",
+      "producers": [
+        "Quilcazo"
+      ],
+      "note": "Micro libre 8:30-9:30pm. Consumo en el local.",
+      "start": "2026-11-20T20:00:00-05:00",
+      "end": "2026-11-21T00:00:00-05:00",
+      "countdown": "MAÑANA",
+      "dias": 1,
+      "gcal_link": "",
+      "en_calendario": false,
+      "descripcion_gcal": ""
+    },
+    {
+      "slug": "rockennedy-2026",
+      "title": "ROCKENNEDY VOL. I",
+      "subtitle": "Día de la Música en Miraflores",
+      "venue": "Anfiteatro Chabuca Granda",
+      "address": "Parque Central de Miraflores",
+      "district": "Miraflores",
+      "price": "INGRESO LIBRE",
+      "free": true,
+      "genres": [
+        "rock"
+      ],
+      "tags": [
+        "Gratis",
+        "Municipal"
+      ],
+      "lineup": [
+        "Erick Hostil",
+        "Franco de M",
+        "Último Bar",
+        "Xtraños",
+        "Kanoahead",
+        "El SYD",
+        "Sikodelic"
+      ],
+      "poster": "posters/real_rockennedy.jpg",
+      "tickets": null,
+      "ig_post": "https://www.instagram.com/p/Df5x3WhuYHS/",
+      "producers": [
+        "Muni Miraflores"
+      ],
+      "note": "Celebración por el Día de la Música.",
+      "start": "2026-11-21T15:00:00-05:00",
+      "end": "2026-11-21T20:00:00-05:00",
+      "countdown": "EN 2 DÍAS",
+      "dias": 2,
+      "gcal_link": "",
+      "en_calendario": false,
+      "descripcion_gcal": ""
+    },
     {
       "slug": "disonantes-deminina",
       "title": "DISONANTES",
@@ -263,6 +343,47 @@
       "descripcion_gcal": "Concierto. División Minúscula desde México en Lima. Banda invitada: Cometa a la Deriva.\n\nFecha: viernes 4 de diciembre 2026\nHora: NO publicada (puse 20:00 como supuesto)\nLugar: Explanada del C.C. Festiva, Lima\nEntradas: Joinnus\nProduce: Impala Live / @impala.live\nPost: https://www.instagram.com/p/Df56ge4lg4j/"
     },
     {
+      "slug": "zoe-unplugged-2026",
+      "title": "ZOÉ UNPLUGGED",
+      "subtitle": "Homenaje última edición del año",
+      "venue": "Mi Tercer Lugar",
+      "address": "Jr. Carabaya 618, Centro de Lima",
+      "district": "Centro de Lima",
+      "price": "Ver Passline",
+      "free": false,
+      "genres": [
+        "rock alternativo",
+        "tributo"
+      ],
+      "tags": [
+        "Tributo",
+        "Internacional"
+      ],
+      "lineup": [
+        "Tributo a Zoé",
+        "Fin de Semana",
+        "Tributo Ed Maverick",
+        "Tributo Kevin Kaarl",
+        "Tributo The Strokes",
+        "Tributo Arctic Monkeys",
+        "Nebula 84"
+      ],
+      "poster": "posters/real_zoe.jpg",
+      "tickets": "https://www.passline.com/eventos/tributo-a-zoe-en-lima",
+      "ig_post": "https://www.instagram.com/p/Dfpfn5hyD8v/",
+      "producers": [
+        "Perú Music"
+      ],
+      "note": "Show exclusivo en banda completa. Informes: 910 384 139.",
+      "start": "2026-12-04T20:00:00-05:00",
+      "end": "2026-12-04T23:00:00-05:00",
+      "countdown": "EN 2 SEMANAS",
+      "dias": 15,
+      "gcal_link": "",
+      "en_calendario": false,
+      "descripcion_gcal": ""
+    },
+    {
       "slug": "veltrac-2026",
       "title": "VELTRAC MUSIC FESTIVAL",
       "subtitle": "5° edición — New Order + 10 artistas",
@@ -310,6 +431,41 @@
       "gcal_link": "https://www.google.com/calendar/event?eid=ODFkOWI4YWtqbXZpbmcybHZwZjNnZTJsZTQgMDcxMjY4ZjFlNzFlNDkwODBiOGMxODExMjg0ODZjZDA0OGZlY2I5NWZlOTBkN2Y1MzdhNjg4ODQ3MzcxMmY1NUBn",
       "en_calendario": true,
       "descripcion_gcal": "Festival. 5° edición del Veltrac Music Festival.\n\nLineup: New Order · Of Monsters and Men · Bandalos Chinos · American Football · Silvana Estrada · Javiera Mena · Juana Aguirre · Piel Camaleón · Peces Raros (invitado especial) · Skillbea · A.E.\n\nLugar: Costa 21 — Circuito de Playas / San Miguel, Lima\nFecha: sábado 5 de diciembre 2026\nHora: NO publicada en el anuncio (puse 15:00 como supuesto)\nEntradas (Teleticket): Isla VIP S/485 (15% Interbank S/412.25, ¡85% agotada!) · General S/305 (15% S/259.25) · Conadis S/244. Niños 5-11 gratis con adulto.\nProduce: Veltrac / @veltracmusicfest\nIG: @veltracmusicfest\nPost: https://www.instagram.com/p/Df5rHcAm7Og/"
+    },
+    {
+      "slug": "sws-2026",
+      "title": "SLEEPING WITH SIRENS",
+      "subtitle": "Tour 2026 en Lima",
+      "venue": "Duomo, Costa 21",
+      "address": "Circuito de Playas, San Miguel",
+      "district": "San Miguel",
+      "price": "Ver Teleticket",
+      "free": false,
+      "genres": [
+        "post-hardcore",
+        "metalcore"
+      ],
+      "tags": [
+        "Internacional"
+      ],
+      "lineup": [
+        "Sleeping With Sirens"
+      ],
+      "poster": null,
+      "tickets": "https://teleticket.com.pe/sleeping-with-sirens-lima-2026",
+      "ig_post": "https://www.instagram.com/reel/DfZ8pZ-v8EF/",
+      "producers": [
+        "MasterLive",
+        "Move Concerts"
+      ],
+      "note": "Últimas entradas.",
+      "start": "2026-12-06T20:00:00-05:00",
+      "end": "2026-12-06T23:00:00-05:00",
+      "countdown": "EN 2 SEMANAS",
+      "dias": 17,
+      "gcal_link": "",
+      "en_calendario": false,
+      "descripcion_gcal": ""
     },
     {
       "slug": "narcosis-2026",
@@ -503,7 +659,7 @@
         "Peru Music Prod",
         "@banderolazoperu"
       ],
-      "note": "Paradero Astral confirmada. Preventa exclusiva 18-19 nov o hasta agotar stock. Precios sin comisión de ticketera. Explanada CC Festiva. Preventa exclusiva 18-19 nov (S/169) o hasta agotar stock. Regular S/189 del 20 nov al 27 feb.",
+      "note": "Paradero Astral confirmada. Preventa exclusiva 18-19 nov o hasta agotar stock. Precios sin comisión de ticketera. Explanada CC Festiva. Preventa exclusiva 18-19 nov (S/169) o hasta agotar stock. Regular S/189 del 20 nov al 27 feb. Hora confirmada: desde las 4pm.",
       "start": "2027-02-27T15:00:00-05:00",
       "end": "2027-02-27T23:00:00-05:00",
       "countdown": "EN 3 MESES",

@@ -153,7 +153,9 @@
         "Peru Music Prod",
         "@banderolazoperu"
       ],
-      "note": "Paradero Astral confirmada. Preventa exclusiva 18-19 nov o hasta agotar stock. Precios sin comisión de ticketera. Explanada CC Festiva. Preventa exclusiva 18-19 nov (S/169) o hasta agotar stock. Regular S/189 del 20 nov al 27 feb."
+      "note": "Paradero Astral confirmada. Preventa exclusiva 18-19 nov o hasta agotar stock. Precios sin comisión de ticketera. Explanada CC Festiva. Preventa exclusiva 18-19 nov (S/169) o hasta agotar stock. Regular S/189 del 20 nov al 27 feb. Hora confirmada: desde las 4pm.",
+      "start": "2027-02-27T16:00:00-05:00",
+      "end": "2027-02-27T23:00:00-05:00"
     },
     {
       "match": "Nothing (US)",
@@ -474,6 +476,150 @@
       "note": "2 días, 18 bandas, música propia. Sáb 28: Estamos Perdidos + 8. Dom 29: Perfecto Miserable + Cometa a la Deriva + Los Chilis + 6. Early Bird y preventa agotados. Aforo al 70%.",
       "start": "2026-11-28T12:00:00-05:00",
       "end": "2026-11-29T23:00:00-05:00",
+      "manual": true
+    },
+    {
+      "match": "ZO",
+      "slug": "zoe-unplugged-2026",
+      "title": "ZOÉ UNPLUGGED",
+      "subtitle": "Homenaje última edición del año",
+      "venue": "Mi Tercer Lugar",
+      "address": "Jr. Carabaya 618, Centro de Lima",
+      "district": "Centro de Lima",
+      "price": "Ver Passline",
+      "free": false,
+      "genres": [
+        "rock alternativo",
+        "tributo"
+      ],
+      "tags": [
+        "Tributo",
+        "Internacional"
+      ],
+      "lineup": [
+        "Tributo a Zoé",
+        "Fin de Semana",
+        "Tributo Ed Maverick",
+        "Tributo Kevin Kaarl",
+        "Tributo The Strokes",
+        "Tributo Arctic Monkeys",
+        "Nebula 84"
+      ],
+      "poster": "posters/real_zoe.jpg",
+      "tickets": "https://www.passline.com/eventos/tributo-a-zoe-en-lima",
+      "ig_post": "https://www.instagram.com/p/Dfpfn5hyD8v/",
+      "producers": [
+        "Perú Music"
+      ],
+      "note": "Show exclusivo en banda completa. Informes: 910 384 139.",
+      "start": "2026-12-04T20:00:00-05:00",
+      "end": "2026-12-04T23:00:00-05:00",
+      "manual": true
+    },
+    {
+      "match": "QUILCAZO",
+      "slug": "quilcazo-17",
+      "title": "VIERNES QUILCAZO XVII",
+      "subtitle": "6 bandas + micro libre",
+      "venue": "I Wanna Rock",
+      "address": "Jr. Juan Gregorio de las Heras 219, Lince",
+      "district": "Lince",
+      "price": "ENTRADA LIBRE",
+      "free": true,
+      "genres": [
+        "rock",
+        "ska",
+        "punk"
+      ],
+      "tags": [
+        "Gratis"
+      ],
+      "lineup": [
+        "El Pollo Ska",
+        "Capula",
+        "Distrito Gris",
+        "Santa Agonía",
+        "Gálvez y el Tren de Comas",
+        "WildCats"
+      ],
+      "poster": "posters/real_quilcazo.jpg",
+      "tickets": null,
+      "ig_post": "https://www.instagram.com/p/Df6RTi5Dt7S/",
+      "producers": [
+        "Quilcazo"
+      ],
+      "note": "Micro libre 8:30-9:30pm. Consumo en el local.",
+      "start": "2026-11-20T20:00:00-05:00",
+      "end": "2026-11-21T00:00:00-05:00",
+      "manual": true
+    },
+    {
+      "match": "ROCKENNEDY",
+      "slug": "rockennedy-2026",
+      "title": "ROCKENNEDY VOL. I",
+      "subtitle": "Día de la Música en Miraflores",
+      "venue": "Anfiteatro Chabuca Granda",
+      "address": "Parque Central de Miraflores",
+      "district": "Miraflores",
+      "price": "INGRESO LIBRE",
+      "free": true,
+      "genres": [
+        "rock"
+      ],
+      "tags": [
+        "Gratis",
+        "Municipal"
+      ],
+      "lineup": [
+        "Erick Hostil",
+        "Franco de M",
+        "Último Bar",
+        "Xtraños",
+        "Kanoahead",
+        "El SYD",
+        "Sikodelic"
+      ],
+      "poster": "posters/real_rockennedy.jpg",
+      "tickets": null,
+      "ig_post": "https://www.instagram.com/p/Df5x3WhuYHS/",
+      "producers": [
+        "Muni Miraflores"
+      ],
+      "note": "Celebración por el Día de la Música.",
+      "start": "2026-11-21T15:00:00-05:00",
+      "end": "2026-11-21T20:00:00-05:00",
+      "manual": true
+    },
+    {
+      "match": "SLEEPING",
+      "slug": "sws-2026",
+      "title": "SLEEPING WITH SIRENS",
+      "subtitle": "Tour 2026 en Lima",
+      "venue": "Duomo, Costa 21",
+      "address": "Circuito de Playas, San Miguel",
+      "district": "San Miguel",
+      "price": "Ver Teleticket",
+      "free": false,
+      "genres": [
+        "post-hardcore",
+        "metalcore"
+      ],
+      "tags": [
+        "Internacional"
+      ],
+      "lineup": [
+        "Sleeping With Sirens"
+      ],
+      "poster": null,
+      "tickets": "https://teleticket.com.pe/sleeping-with-sirens-lima-2026",
+      "ig_post": "https://www.instagram.com/reel/DfZ8pZ-v8EF/",
+      "producers": [
+        "MasterLive",
+        "Move Concerts"
+      ],
+      "note": "Últimas entradas.",
+      "start": "2026-12-06T20:00:00-05:00",
+      "end": "2026-12-06T23:00:00-05:00",
       "manual": true
     }
   ]
