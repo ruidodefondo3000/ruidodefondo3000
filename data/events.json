@@ -1,10 +1,10 @@
 {
   "handle": "ruido.de.fondo.3000",
   "ig_url": "https://instagram.com/ruido.de.fondo.3000",
-  "generado": "2026-11-19T10:03:56-05:00",
-  "generado_legible": "19.11.2026 · 10:03",
+  "generado": "2026-11-19T11:00:31-05:00",
+  "generado_legible": "19.11.2026 · 11:00",
   "fuente": "Google Calendar · Música y Conciertos",
-  "total": 21,
+  "total": 24,
   "events": [
     {
       "slug": "quilcazo-17",
@@ -146,7 +146,14 @@
         "Internacional"
       ],
       "lineup": [
-        "BLNKO"
+        "BLNKO",
+        "Tiempo Fuera",
+        "Marsupiales",
+        "Datzol",
+        "Etereal",
+        "La Casa Rosa",
+        "Söfy",
+        "Stand"
       ],
       "poster": null,
       "tickets": "https://www.joinnus.com",
@@ -468,6 +475,45 @@
       "descripcion_gcal": "Festival. 5° edición del Veltrac Music Festival.\n\nLineup: New Order · Of Monsters and Men · Bandalos Chinos · American Football · Silvana Estrada · Javiera Mena · Juana Aguirre · Piel Camaleón · Peces Raros (invitado especial) · Skillbea · A.E.\n\nLugar: Costa 21 — Circuito de Playas / San Miguel, Lima\nFecha: sábado 5 de diciembre 2026\nHora: NO publicada en el anuncio (puse 15:00 como supuesto)\nEntradas (Teleticket): Isla VIP S/485 (15% Interbank S/412.25, ¡85% agotada!) · General S/305 (15% S/259.25) · Conadis S/244. Niños 5-11 gratis con adulto.\nProduce: Veltrac / @veltracmusicfest\nIG: @veltracmusicfest\nPost: https://www.instagram.com/p/Df5rHcAm7Og/"
     },
     {
+      "slug": "animales-exoticos-2026",
+      "title": "ANIMALES EXÓTICOS DESAMPARADOS",
+      "subtitle": "Feria-concierto despedida · desde Chile",
+      "venue": "Terapia Bar",
+      "address": "Jr. Carabaya 926, Cercado de Lima",
+      "district": "Centro de Lima",
+      "price": "S/5 en puerta",
+      "price_from": 5,
+      "free": false,
+      "genres": [
+        "rock alternativo",
+        "indie"
+      ],
+      "tags": [
+        "Internacional",
+        "Feria"
+      ],
+      "lineup": [
+        "Animales Exóticos Desamparados",
+        "Ruri",
+        "Caleidoscopio",
+        "Hipnoascención"
+      ],
+      "poster": "posters/real_animales.jpg",
+      "tickets": null,
+      "ig_post": "https://www.instagram.com/p/Df7XHtWEVBo/",
+      "producers": [
+        "Retama Records"
+      ],
+      "note": "Gira Ucronías Perú-México. Feria desde 4pm (discos, merch, fanzines). Concierto 5-9pm.",
+      "start": "2026-12-06T17:00:00-05:00",
+      "end": "2026-12-06T21:00:00-05:00",
+      "countdown": "EN 2 SEMANAS",
+      "dias": 17,
+      "gcal_link": "",
+      "en_calendario": false,
+      "descripcion_gcal": ""
+    },
+    {
       "slug": "sws-2026",
       "title": "SLEEPING WITH SIRENS",
       "subtitle": "Tour 2026 en Lima",
@@ -498,6 +544,39 @@
       "end": "2026-12-06T23:00:00-05:00",
       "countdown": "EN 2 SEMANAS",
       "dias": 17,
+      "gcal_link": "",
+      "en_calendario": false,
+      "descripcion_gcal": ""
+    },
+    {
+      "slug": "kreator-2026",
+      "title": "KREATOR",
+      "subtitle": "Thrash alemán en Lima",
+      "venue": "Centro de Convenciones Leguía",
+      "address": "Lima",
+      "district": "Lima",
+      "price": "Ver Ticketmaster",
+      "free": false,
+      "genres": [
+        "thrash metal"
+      ],
+      "tags": [
+        "Internacional"
+      ],
+      "lineup": [
+        "Kreator"
+      ],
+      "poster": null,
+      "tickets": "https://www.ticketmaster.pe",
+      "ig_post": "https://www.instagram.com/reel/Dff4qdCJzRt/",
+      "producers": [
+        "Alma Show"
+      ],
+      "note": "Quedan pocas entradas.",
+      "start": "2026-12-08T20:00:00-05:00",
+      "end": "2026-12-08T23:00:00-05:00",
+      "countdown": "EN 3 SEMANAS",
+      "dias": 19,
       "gcal_link": "",
       "en_calendario": false,
       "descripcion_gcal": ""
@@ -693,6 +772,40 @@
       "gcal_link": "https://www.google.com/calendar/event?eid=dWQ0bmJ0aW5jNWdvcnZqdWVuNmUwNnNzNjAgMDcxMjY4ZjFlNzFlNDkwODBiOGMxODExMjg0ODZjZDA0OGZlY2I5NWZlOTBkN2Y1MzdhNjg4ODQ3MzcxMmY1NUBn",
       "en_calendario": true,
       "descripcion_gcal": "Festival. El festival más grande para despedir el 2026.\n\nLineup: 6 Voltios · Charly (DiazePunk) · Banda sorpresa · No Recomendable · Cometa a la Deriva · Trago Korto · Alcalina · Miserable · Undersong\nBandas tributo: Pxndx, Linkin Park, Slipknot, System of a Down, My Chemical Romance, Radiohead, Airbag, Paramore, Zoé, Bring Me The Horizon, Korn, Limp Bizkit, Soda Stereo, Enanitos Verdes.\n\nFecha: sábado 26 de diciembre 2026, desde las 2PM\nLugar: Explanada CC Festiva, Lima\nEntradas: Joinnus (+ Yape)\nProduce: Perú Music / Keyle Music / Eventos Lima / Rock en tus Venas / Conciertos Lima / 4D Music Perú\nPost: https://www.instagram.com/p/Dfz5L1uFfdt/"
+    },
+    {
+      "slug": "mdsl-2027",
+      "title": "MARÍA DANIELA Y SU SONIDO LASSER",
+      "subtitle": "Gira latinoamericana 2027 · primera vez en Perú",
+      "venue": "Centro de Convenciones Festiva",
+      "address": "Av. Alfonso Ugarte 1439, Lima",
+      "district": "Lima",
+      "price": "Preventa S/139 · Full S/185",
+      "price_from": 139,
+      "free": false,
+      "genres": [
+        "electropop"
+      ],
+      "tags": [
+        "Internacional"
+      ],
+      "lineup": [
+        "María Daniela y su Sonido Lasser"
+      ],
+      "poster": "posters/real_mdsl.jpg",
+      "tickets": "https://www.joinnus.com",
+      "ig_post": "https://www.instagram.com/p/Df7Wi0uEUiH/",
+      "producers": [
+        "Good Crew"
+      ],
+      "note": "Preventa hasta 27 nov o agotar stock. Puertas 7pm.",
+      "start": "2027-01-23T19:00:00-05:00",
+      "end": "2027-01-23T23:00:00-05:00",
+      "countdown": "EN 2 MESES",
+      "dias": 65,
+      "gcal_link": "",
+      "en_calendario": false,
+      "descripcion_gcal": ""
     },
     {
       "slug": "ataquemos-2027",

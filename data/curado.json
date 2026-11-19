@@ -669,7 +669,14 @@
         "Internacional"
       ],
       "lineup": [
-        "BLNKO"
+        "BLNKO",
+        "Tiempo Fuera",
+        "Marsupiales",
+        "Datzol",
+        "Etereal",
+        "La Casa Rosa",
+        "Söfy",
+        "Stand"
       ],
       "poster": null,
       "tickets": "https://www.joinnus.com",
@@ -749,6 +756,103 @@
       "note": "32 bandas en vivo. Informes: 948 100 798.",
       "start": "2026-12-18T18:00:00-05:00",
       "end": "2026-12-19T23:00:00-05:00",
+      "manual": true
+    },
+    {
+      "match": "ANIMALES EX",
+      "slug": "animales-exoticos-2026",
+      "title": "ANIMALES EXÓTICOS DESAMPARADOS",
+      "subtitle": "Feria-concierto despedida · desde Chile",
+      "venue": "Terapia Bar",
+      "address": "Jr. Carabaya 926, Cercado de Lima",
+      "district": "Centro de Lima",
+      "price": "S/5 en puerta",
+      "price_from": 5,
+      "free": false,
+      "genres": [
+        "rock alternativo",
+        "indie"
+      ],
+      "tags": [
+        "Internacional",
+        "Feria"
+      ],
+      "lineup": [
+        "Animales Exóticos Desamparados",
+        "Ruri",
+        "Caleidoscopio",
+        "Hipnoascención"
+      ],
+      "poster": "posters/real_animales.jpg",
+      "tickets": null,
+      "ig_post": "https://www.instagram.com/p/Df7XHtWEVBo/",
+      "producers": [
+        "Retama Records"
+      ],
+      "note": "Gira Ucronías Perú-México. Feria desde 4pm (discos, merch, fanzines). Concierto 5-9pm.",
+      "start": "2026-12-06T17:00:00-05:00",
+      "end": "2026-12-06T21:00:00-05:00",
+      "manual": true
+    },
+    {
+      "match": "MARIA DANIELA",
+      "slug": "mdsl-2027",
+      "title": "MARÍA DANIELA Y SU SONIDO LASSER",
+      "subtitle": "Gira latinoamericana 2027 · primera vez en Perú",
+      "venue": "Centro de Convenciones Festiva",
+      "address": "Av. Alfonso Ugarte 1439, Lima",
+      "district": "Lima",
+      "price": "Preventa S/139 · Full S/185",
+      "price_from": 139,
+      "free": false,
+      "genres": [
+        "electropop"
+      ],
+      "tags": [
+        "Internacional"
+      ],
+      "lineup": [
+        "María Daniela y su Sonido Lasser"
+      ],
+      "poster": "posters/real_mdsl.jpg",
+      "tickets": "https://www.joinnus.com",
+      "ig_post": "https://www.instagram.com/p/Df7Wi0uEUiH/",
+      "producers": [
+        "Good Crew"
+      ],
+      "note": "Preventa hasta 27 nov o agotar stock. Puertas 7pm.",
+      "start": "2027-01-23T19:00:00-05:00",
+      "end": "2027-01-23T23:00:00-05:00",
+      "manual": true
+    },
+    {
+      "match": "KREATOR",
+      "slug": "kreator-2026",
+      "title": "KREATOR",
+      "subtitle": "Thrash alemán en Lima",
+      "venue": "Centro de Convenciones Leguía",
+      "address": "Lima",
+      "district": "Lima",
+      "price": "Ver Ticketmaster",
+      "free": false,
+      "genres": [
+        "thrash metal"
+      ],
+      "tags": [
+        "Internacional"
+      ],
+      "lineup": [
+        "Kreator"
+      ],
+      "poster": null,
+      "tickets": "https://www.ticketmaster.pe",
+      "ig_post": "https://www.instagram.com/reel/Dff4qdCJzRt/",
+      "producers": [
+        "Alma Show"
+      ],
+      "note": "Quedan pocas entradas.",
+      "start": "2026-12-08T20:00:00-05:00",
+      "end": "2026-12-08T23:00:00-05:00",
       "manual": true
     }
   ]
