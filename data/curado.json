@@ -424,6 +424,57 @@
       "note": "Estreno exclusivo en Perú. Dos funciones (5PM y 8PM) con Q&A y meet & greet con El Hefe tras cada proyección. Capacidad limitada.",
       "start": "2026-11-23T17:00:00-05:00",
       "manual": true
+    },
+    {
+      "match": "KEMANDO",
+      "slug": "kemando-discos-2026",
+      "title": "KEMANDO DISCOS",
+      "subtitle": "Festival independiente · 18 bandas",
+      "venue": "Av. Aviación Km 6.5, Cerro Colorado",
+      "address": "Av. Aviación Km 6.5, Cerro Colorado, Arequipa",
+      "district": "Arequipa",
+      "price": "Full x2 días S/170 · Pase por día S/145",
+      "price_from": 145,
+      "free": false,
+      "genres": [
+        "indie",
+        "rock alternativo",
+        "punk"
+      ],
+      "tags": [
+        "Festival",
+        "Arequipa"
+      ],
+      "lineup": [
+        "Estamos Perdidos (Ecuador)",
+        "Perfecto Miserable (España)",
+        "Cometa a la Deriva (Lima)",
+        "Los Chilis",
+        "380",
+        "Loncheras de Perro (Lima)",
+        "Club de los Poetas Muertos",
+        "Allanamiento Emocional",
+        "Baião",
+        "Perzona",
+        "Vida en Marte",
+        "Pequeña Pendeja (Arequipa)",
+        "Heyoka",
+        "Luka China",
+        "Dos Fetos",
+        "Conejitos Suicidas",
+        "Gato Traumado (Lima)",
+        "Peatón"
+      ],
+      "poster": "posters/real_kemando.jpg",
+      "tickets": "https://www.joinnus.com",
+      "ig_post": "https://www.instagram.com/p/Df5SpaSG0Sq/",
+      "producers": [
+        "Kemando Discos"
+      ],
+      "note": "2 días, 18 bandas, música propia. Sáb 28: Estamos Perdidos + 8. Dom 29: Perfecto Miserable + Cometa a la Deriva + Los Chilis + 6. Early Bird y preventa agotados. Aforo al 70%.",
+      "start": "2026-11-28T12:00:00-05:00",
+      "end": "2026-11-29T23:00:00-05:00",
+      "manual": true
     }
   ]
 }

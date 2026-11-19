@@ -1,10 +1,10 @@
 {
   "handle": "ruido.de.fondo.3000",
   "ig_url": "https://instagram.com/ruido.de.fondo.3000",
-  "generado": "2026-11-19T08:59:48-05:00",
-  "generado_legible": "19.11.2026 · 08:59",
+  "generado": "2026-11-19T09:11:03-05:00",
+  "generado_legible": "19.11.2026 · 09:11",
   "fuente": "Google Calendar · Música y Conciertos",
-  "total": 12,
+  "total": 13,
   "events": [
     {
       "slug": "disonantes-deminina",
@@ -82,6 +82,60 @@
       "end": null,
       "countdown": "EN 4 DÍAS",
       "dias": 4,
+      "gcal_link": "",
+      "en_calendario": false,
+      "descripcion_gcal": ""
+    },
+    {
+      "slug": "kemando-discos-2026",
+      "title": "KEMANDO DISCOS",
+      "subtitle": "Festival independiente · 18 bandas",
+      "venue": "Av. Aviación Km 6.5, Cerro Colorado",
+      "address": "Av. Aviación Km 6.5, Cerro Colorado, Arequipa",
+      "district": "Arequipa",
+      "price": "Full x2 días S/170 · Pase por día S/145",
+      "price_from": 145,
+      "free": false,
+      "genres": [
+        "indie",
+        "rock alternativo",
+        "punk"
+      ],
+      "tags": [
+        "Festival",
+        "Arequipa"
+      ],
+      "lineup": [
+        "Estamos Perdidos (Ecuador)",
+        "Perfecto Miserable (España)",
+        "Cometa a la Deriva (Lima)",
+        "Los Chilis",
+        "380",
+        "Loncheras de Perro (Lima)",
+        "Club de los Poetas Muertos",
+        "Allanamiento Emocional",
+        "Baião",
+        "Perzona",
+        "Vida en Marte",
+        "Pequeña Pendeja (Arequipa)",
+        "Heyoka",
+        "Luka China",
+        "Dos Fetos",
+        "Conejitos Suicidas",
+        "Gato Traumado (Lima)",
+        "Peatón"
+      ],
+      "poster": "posters/real_kemando.jpg",
+      "tickets": "https://www.joinnus.com",
+      "ig_post": "https://www.instagram.com/p/Df5SpaSG0Sq/",
+      "producers": [
+        "Kemando Discos"
+      ],
+      "note": "2 días, 18 bandas, música propia. Sáb 28: Estamos Perdidos + 8. Dom 29: Perfecto Miserable + Cometa a la Deriva + Los Chilis + 6. Early Bird y preventa agotados. Aforo al 70%.",
+      "start": "2026-11-28T12:00:00-05:00",
+      "end": "2026-11-29T23:00:00-05:00",
+      "countdown": "EN 1 SEMANAS",
+      "dias": 9,
       "gcal_link": "",
       "en_calendario": false,
       "descripcion_gcal": ""
