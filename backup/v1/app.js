@@ -198,6 +198,7 @@
 
   function iniciar(data) {
     DATA = data && data.events ? data : FALLBACK;
+    DATA.events.forEach(function (e) { if (e.poster) e.poster = e.poster.replace(/^\.\.\//, "../../"); });
     renderMarquee();
     renderHero();
     renderStack();
@@ -210,7 +211,7 @@
   if (window.__EVENTS__) {
     iniciar(window.__EVENTS__);
   } else {
-    fetch("../data/events.json", { cache: "no-store" })
+    fetch("../../data/events.json", { cache: "no-store" })
       .then((r) => r.json())
       .then(iniciar)
       .catch(() => iniciar(FALLBACK));

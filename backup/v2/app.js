@@ -198,6 +198,7 @@
 
   function iniciar(data) {
     DATA = data && data.events ? data : FALLBACK;
+    DATA.events.forEach(function (e) { if (e.poster) e.poster = e.poster.replace(/^\.\.\//, "../../"); });
     $("nEvents").textContent = String(DATA.events.length).padStart(2, "0");
     $("stamp").textContent = DATA.generado_legible || "—";
     $("syncTxt").textContent = navigator.onLine ? "sync ok" : "offline";
@@ -221,6 +222,6 @@
   if (window.__EVENTS__) {
     iniciar(window.__EVENTS__);
   } else {
-    fetch("../data/events.json", { cache: "no-store" }).then((r) => r.json()).then(iniciar).catch(() => iniciar(FALLBACK));
+    fetch("../../data/events.json", { cache: "no-store" }).then((r) => r.json()).then(iniciar).catch(() => iniciar(FALLBACK));
   }
 })();

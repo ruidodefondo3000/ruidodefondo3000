@@ -160,6 +160,7 @@
   /* ---------- init ---------- */
   function init(data) {
     DATA = data && data.events ? data : FALLBACK;
+    DATA.events.forEach(function (e) { if (e.poster) e.poster = e.poster.replace(/^\.\.\//, "../../"); });
     $("stamp").textContent = DATA.generado_legible || "—";
     if (!DATA.events.length) {
       $("story").innerHTML = '<div class="empty-story">Sin fechas todavía</div>';
@@ -221,5 +222,5 @@
   }
 
   if (window.__EVENTS__) init(window.__EVENTS__);
-  else fetch("../data/events.json", { cache: "no-store" }).then(function (r) { return r.json(); }).then(init).catch(function () { init(FALLBACK); });
+  else fetch("../../data/events.json", { cache: "no-store" }).then(function (r) { return r.json(); }).then(init).catch(function () { init(FALLBACK); });
 })();

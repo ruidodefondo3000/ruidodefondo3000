@@ -107,6 +107,7 @@
 
   function init(data) {
     DATA = data && data.events ? data : FALLBACK;
+    DATA.events.forEach(function (e) { if (e.poster) e.poster = e.poster.replace(/^\.\.\//, "../../"); });
     $("totalEvents").textContent = String(DATA.events.length).padStart(2, "0");
     $("stamp").textContent = DATA.generado_legible || "—";
     renderCuts();
@@ -149,5 +150,5 @@
   }
 
   if (window.__EVENTS__) init(window.__EVENTS__);
-  else fetch("../data/events.json", { cache: "no-store" }).then(function (r) { return r.json(); }).then(init).catch(function () { init(FALLBACK); });
+  else fetch("../../data/events.json", { cache: "no-store" }).then(function (r) { return r.json(); }).then(init).catch(function () { init(FALLBACK); });
 })();
