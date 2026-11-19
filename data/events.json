@@ -1,10 +1,10 @@
 {
   "handle": "ruido.de.fondo.3000",
   "ig_url": "https://instagram.com/ruido.de.fondo.3000",
-  "generado": "2026-11-19T00:13:26-05:00",
-  "generado_legible": "19.11.2026 · 00:13",
+  "generado": "2026-11-19T00:17:22-05:00",
+  "generado_legible": "19.11.2026 · 00:17",
   "fuente": "Google Calendar · Música y Conciertos",
-  "total": 8,
+  "total": 11,
   "events": [
     {
       "slug": "disonantes-deminina",
@@ -137,6 +137,40 @@
       "descripcion_gcal": "Breakcore. Machine Girl vuelve a Lima por segunda vez (vol. II).\n\nTelonera: Carly (@carlycore_) — la que publicó el anuncio.\n\nLugar: Yield Rock — Jr. Carabaya 815, Cercado de Lima\nFecha: jueves 3 de diciembre 2026, 8:00 PM\nEdad: -18 acompañado de adulto\n\nEntradas (Joinnus):\n· Preventa S/ 179.00\n· Full S/ 199.00\n· 20% OFF con código CARLY en la web de Joinnus\n\nhttps://www.joinnus.com/events/art-culture/lima-machine-girl-en-lima-78067\nProduce: 511 City / 511 Underground\nIG: @511city @carlycore_ @yieldrock\nPost: https://www.instagram.com/reel/Df5GWx1O5xh/"
     },
     {
+      "slug": "division-minuscula-2026",
+      "title": "DIVISIÓN MINÚSCULA",
+      "subtitle": "Desde México + Cometa a la Deriva",
+      "venue": "Explanada CC Festiva",
+      "address": "Av. Alfonso Ugarte 1439, Lima",
+      "district": "Lima",
+      "price": "Ver Joinnus",
+      "free": false,
+      "genres": [
+        "rock alternativo"
+      ],
+      "tags": [
+        "Internacional"
+      ],
+      "lineup": [
+        "División Minúscula",
+        "Cometa a la Deriva"
+      ],
+      "poster": "posters/real_division.jpg",
+      "tickets": "https://www.joinnus.com",
+      "ig_post": "https://www.instagram.com/p/Df56ge4lg4j/",
+      "producers": [
+        "Impala Live"
+      ],
+      "note": "Rock alternativo mexicano. Banda invitada: Cometa a la Deriva (también en Kósmika y Pogo).",
+      "start": "2026-12-04T20:00:00-05:00",
+      "end": "2026-12-04T23:00:00-05:00",
+      "countdown": "EN 2 SEMANAS",
+      "dias": 15,
+      "gcal_link": "https://www.google.com/calendar/event?eid=ZXNuYjE0cHJxbTM3cXZvOTJzNDhjMW5iOGsgMDcxMjY4ZjFlNzFlNDkwODBiOGMxODExMjg0ODZjZDA0OGZlY2I5NWZlOTBkN2Y1MzdhNjg4ODQ3MzcxMmY1NUBn",
+      "en_calendario": true,
+      "descripcion_gcal": "Concierto. División Minúscula desde México en Lima. Banda invitada: Cometa a la Deriva.\n\nFecha: viernes 4 de diciembre 2026\nHora: NO publicada (puse 20:00 como supuesto)\nLugar: Explanada del C.C. Festiva, Lima\nEntradas: Joinnus\nProduce: Impala Live / @impala.live\nPost: https://www.instagram.com/p/Df56ge4lg4j/"
+    },
+    {
       "slug": "veltrac-2026",
       "title": "VELTRAC MUSIC FESTIVAL",
       "subtitle": "5° edición — New Order + 10 artistas",
@@ -223,6 +257,55 @@
       "descripcion_gcal": "Concierto único. Narcosis (referente del rock subterráneo peruano, desde 1985) regresa a los escenarios con una sola presentación en 2026. Banda invitada: Aeropajitas.\n\nFecha: sábado 12 de diciembre 2026\nHora: NO publicada (puse 20:00 como supuesto)\nLugar: Centro de Convenciones Festiva, Lima\nEntradas: Ticketmaster Perú (precio NO publicado en el anuncio)\nProduce: Stela Producciones\nInfo: biscuitbatik.rocks / @biscuitbatik\nPost: https://www.instagram.com/p/DfnShPCJRVM/"
     },
     {
+      "slug": "ultimo-pogo-2026",
+      "title": "EL ÚLTIMO POGO FEST",
+      "subtitle": "El festival más grande para despedir el 2026",
+      "venue": "Explanada CC Festiva",
+      "address": "Av. Alfonso Ugarte 1439, Lima",
+      "district": "Lima",
+      "price": "Ver Joinnus",
+      "free": false,
+      "genres": [
+        "punk",
+        "rock",
+        "metal"
+      ],
+      "tags": [
+        "Festival",
+        "Nacional"
+      ],
+      "lineup": [
+        "6 Voltios",
+        "Charly (DiazePunk)",
+        "Banda sorpresa",
+        "No Recomendable",
+        "Cometa a la Deriva",
+        "Trago Korto",
+        "Alcalina",
+        "Miserable",
+        "Undersong",
+        "+ tributos: Pxndx, Linkin Park, Slipknot, SOAD, MCR, Radiohead, Airbag, Paramore, Zoé, BMTH, Korn, Limp Bizkit, Soda Stereo, Enanitos Verdes"
+      ],
+      "poster": "posters/real_pogo.jpg",
+      "tickets": "https://www.joinnus.com",
+      "ig_post": "https://www.instagram.com/p/Dfz5L1uFfdt/",
+      "producers": [
+        "Perú Music",
+        "Keyle Music",
+        "Eventos Lima",
+        "Rock en tus Venas",
+        "Conciertos Lima"
+      ],
+      "note": "Desde las 2PM. Entradas en Joinnus (+ Yape). Informes: 910 384 139.",
+      "start": "2026-12-26T14:00:00-05:00",
+      "end": "2026-12-26T23:00:00-05:00",
+      "countdown": "EN 1 MESES",
+      "dias": 37,
+      "gcal_link": "https://www.google.com/calendar/event?eid=dWQ0bmJ0aW5jNWdvcnZqdWVuNmUwNnNzNjAgMDcxMjY4ZjFlNzFlNDkwODBiOGMxODExMjg0ODZjZDA0OGZlY2I5NWZlOTBkN2Y1MzdhNjg4ODQ3MzcxMmY1NUBn",
+      "en_calendario": true,
+      "descripcion_gcal": "Festival. El festival más grande para despedir el 2026.\n\nLineup: 6 Voltios · Charly (DiazePunk) · Banda sorpresa · No Recomendable · Cometa a la Deriva · Trago Korto · Alcalina · Miserable · Undersong\nBandas tributo: Pxndx, Linkin Park, Slipknot, System of a Down, My Chemical Romance, Radiohead, Airbag, Paramore, Zoé, Bring Me The Horizon, Korn, Limp Bizkit, Soda Stereo, Enanitos Verdes.\n\nFecha: sábado 26 de diciembre 2026, desde las 2PM\nLugar: Explanada CC Festiva, Lima\nEntradas: Joinnus (+ Yape)\nProduce: Perú Music / Keyle Music / Eventos Lima / Rock en tus Venas / Conciertos Lima / 4D Music Perú\nPost: https://www.instagram.com/p/Dfz5L1uFfdt/"
+    },
+    {
       "slug": "ataquemos-2027",
       "title": "ATAQUEMOS",
       "subtitle": "Desde Santiago (Chile) — banda completa",
@@ -249,7 +332,7 @@
         "511city",
         "Yield Rock"
       ],
-      "note": "Early Bird agotado. Precios incluyen comisión e IGV.",
+      "note": "Early Bird agotado. Precios incluyen comisión e IGV. Preventas en Joinnus.",
       "start": "2027-02-07T20:00:00-05:00",
       "end": "2027-02-07T23:00:00-05:00",
       "countdown": "EN 3 MESES",
@@ -259,14 +342,48 @@
       "descripcion_gcal": "Concierto. Ataquemos desde Santiago (Chile), show con banda completa.\n\nFecha: sábado 7 de febrero 2027\nHora: NO publicada (puse 20:00 como supuesto)\nLugar: Yield Rock, Lima\nEntradas (Joinnus): General Preventa S/99 · Full S/109 (Early Bird agotado). Precios incluyen comisión e IGV.\nProducen: 511city + Yield Rock\nPost: https://www.instagram.com/p/Df2jFGfFO0Q/"
     },
     {
+      "slug": "siddhartha-2027",
+      "title": "SIDDHARTHA",
+      "subtitle": "Tú y Yo Tour 2027 — en Lima",
+      "venue": "Anfiteatro del Parque de la Exposición",
+      "address": "Jr. Lampa s/n, Lima",
+      "district": "Lima",
+      "price": "Ver Joinnus",
+      "free": false,
+      "genres": [
+        "indie rock",
+        "indie pop"
+      ],
+      "tags": [
+        "Internacional"
+      ],
+      "lineup": [
+        "Siddhartha"
+      ],
+      "poster": "posters/real_siddhartha.jpg",
+      "tickets": "https://www.joinnus.com",
+      "ig_post": "https://www.instagram.com/reel/Dfm6hDMPlq1/",
+      "producers": [
+        "Veltrac Music"
+      ],
+      "note": "Entradas desde el lunes 16 a las 10am. Descuentos con tarjetas Interbank.",
+      "start": "2027-02-10T20:00:00-05:00",
+      "end": "2027-02-10T23:00:00-05:00",
+      "countdown": "EN 3 MESES",
+      "dias": 83,
+      "gcal_link": "https://www.google.com/calendar/event?eid=ODFjaTRpNnZ2NGprbmRvYTUwcjBiaG9hcHMgMDcxMjY4ZjFlNzFlNDkwODBiOGMxODExMjg0ODZjZDA0OGZlY2I5NWZlOTBkN2Y1MzdhNjg4ODQ3MzcxMmY1NUBn",
+      "en_calendario": true,
+      "descripcion_gcal": "Concierto. Siddhartha en Lima con su Tú y Yo Tour 2027. Una noche para encontrarnos a través de la música.\n\nFecha: miércoles 10 de febrero 2027\nHora: NO publicada (puse 20:00 como supuesto)\nLugar: Anfiteatro del Parque de la Exposición, Lima\nEntradas: Joinnus desde el lunes 16 a las 10am. Descuentos con tarjetas Interbank.\nProduce: Veltrac Music / @veltracmusic\nPost: https://www.instagram.com/reel/Dfm6hDMPlq1/"
+    },
+    {
       "slug": "kosmika-2027",
       "title": "KÓSMIKA 2027",
-      "subtitle": "Los Vaguens (MX) + Ruby Tates, Muckers, Los Outsaiders",
+      "subtitle": "Los Vaguens + 7 bandas · indie MX/CL/PE",
       "venue": "Centro de Convenciones Festiva",
       "address": "Av. Alfonso Ugarte 1439, Cercado de Lima",
       "district": "Centro de Lima",
-      "price": "Passline — por anunciar",
-      "price_from": null,
+      "price": "Early Bird S/149 · Passline",
+      "price_from": 149,
       "free": false,
       "genres": [
         "indie",
@@ -279,18 +396,22 @@
       "lineup": [
         "Los Vaguens",
         "Ruby Tates",
-        "Muckers",
-        "Los Outsaiders"
+        "Fother Muckers",
+        "Los Outsaiders",
+        "Cometa a la Deriva",
+        "Cataratas en Siberia",
+        "Loncheras de Perro",
+        "Paradero Astral"
       ],
       "poster": "../posters/kosmika.jpg",
-      "tickets": "https://www.passline.com",
-      "ig_post": "https://www.instagram.com/p/Df2iwoxpZIU/",
+      "tickets": "https://www.passline.com/eventos/kosmika-fest-en-lima",
+      "ig_post": "https://www.instagram.com/p/Df2je0qG5h6/",
       "producers": [
         "Lunar Music",
         "Peru Music Prod",
         "@banderolazoperu"
       ],
-      "note": "Los Vaguens (México) por primera vez en Lima. Hora oficial aún no publicada.",
+      "note": "Preventa exclusiva 18-19 nov o hasta agotar stock. Precios sin comisión de ticketera. Explanada CC Festiva.",
       "start": "2027-02-27T15:00:00-05:00",
       "end": "2027-02-27T23:00:00-05:00",
       "countdown": "EN 3 MESES",

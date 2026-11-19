@@ -120,12 +120,12 @@
       "match": "KÓSMIKA",
       "slug": "kosmika-2027",
       "title": "KÓSMIKA 2027",
-      "subtitle": "Los Vaguens (MX) + Ruby Tates, Muckers, Los Outsaiders",
+      "subtitle": "Los Vaguens + 7 bandas · indie MX/CL/PE",
       "venue": "Centro de Convenciones Festiva",
       "address": "Av. Alfonso Ugarte 1439, Cercado de Lima",
       "district": "Centro de Lima",
-      "price": "Passline — por anunciar",
-      "price_from": null,
+      "price": "Early Bird S/149 · Passline",
+      "price_from": 149,
       "free": false,
       "genres": [
         "indie",
@@ -138,18 +138,22 @@
       "lineup": [
         "Los Vaguens",
         "Ruby Tates",
-        "Muckers",
-        "Los Outsaiders"
+        "Fother Muckers",
+        "Los Outsaiders",
+        "Cometa a la Deriva",
+        "Cataratas en Siberia",
+        "Loncheras de Perro",
+        "Paradero Astral"
       ],
       "poster": "../posters/kosmika.jpg",
-      "tickets": "https://www.passline.com",
-      "ig_post": "https://www.instagram.com/p/Df2iwoxpZIU/",
+      "tickets": "https://www.passline.com/eventos/kosmika-fest-en-lima",
+      "ig_post": "https://www.instagram.com/p/Df2je0qG5h6/",
       "producers": [
         "Lunar Music",
         "Peru Music Prod",
         "@banderolazoperu"
       ],
-      "note": "Los Vaguens (México) por primera vez en Lima. Hora oficial aún no publicada."
+      "note": "Preventa exclusiva 18-19 nov o hasta agotar stock. Precios sin comisión de ticketera. Explanada CC Festiva."
     },
     {
       "match": "Nothing (US)",
@@ -255,7 +259,7 @@
         "511city",
         "Yield Rock"
       ],
-      "note": "Early Bird agotado. Precios incluyen comisión e IGV."
+      "note": "Early Bird agotado. Precios incluyen comisión e IGV. Preventas en Joinnus."
     },
     {
       "match": "NARCOSIS",
@@ -287,6 +291,105 @@
         "@biscuitbatik"
       ],
       "note": "Único concierto de Narcosis en 2026. Leyenda del rock subterráneo peruano (desde 1985)."
+    },
+    {
+      "match": "SIDDHARTHA",
+      "slug": "siddhartha-2027",
+      "title": "SIDDHARTHA",
+      "subtitle": "Tú y Yo Tour 2027 — en Lima",
+      "venue": "Anfiteatro del Parque de la Exposición",
+      "address": "Jr. Lampa s/n, Lima",
+      "district": "Lima",
+      "price": "Ver Joinnus",
+      "free": false,
+      "genres": [
+        "indie rock",
+        "indie pop"
+      ],
+      "tags": [
+        "Internacional"
+      ],
+      "lineup": [
+        "Siddhartha"
+      ],
+      "poster": "posters/real_siddhartha.jpg",
+      "tickets": "https://www.joinnus.com",
+      "ig_post": "https://www.instagram.com/reel/Dfm6hDMPlq1/",
+      "producers": [
+        "Veltrac Music"
+      ],
+      "note": "Entradas desde el lunes 16 a las 10am. Descuentos con tarjetas Interbank."
+    },
+    {
+      "match": "POGO",
+      "slug": "ultimo-pogo-2026",
+      "title": "EL ÚLTIMO POGO FEST",
+      "subtitle": "El festival más grande para despedir el 2026",
+      "venue": "Explanada CC Festiva",
+      "address": "Av. Alfonso Ugarte 1439, Lima",
+      "district": "Lima",
+      "price": "Ver Joinnus",
+      "free": false,
+      "genres": [
+        "punk",
+        "rock",
+        "metal"
+      ],
+      "tags": [
+        "Festival",
+        "Nacional"
+      ],
+      "lineup": [
+        "6 Voltios",
+        "Charly (DiazePunk)",
+        "Banda sorpresa",
+        "No Recomendable",
+        "Cometa a la Deriva",
+        "Trago Korto",
+        "Alcalina",
+        "Miserable",
+        "Undersong",
+        "+ tributos: Pxndx, Linkin Park, Slipknot, SOAD, MCR, Radiohead, Airbag, Paramore, Zoé, BMTH, Korn, Limp Bizkit, Soda Stereo, Enanitos Verdes"
+      ],
+      "poster": "posters/real_pogo.jpg",
+      "tickets": "https://www.joinnus.com",
+      "ig_post": "https://www.instagram.com/p/Dfz5L1uFfdt/",
+      "producers": [
+        "Perú Music",
+        "Keyle Music",
+        "Eventos Lima",
+        "Rock en tus Venas",
+        "Conciertos Lima"
+      ],
+      "note": "Desde las 2PM. Entradas en Joinnus (+ Yape). Informes: 910 384 139."
+    },
+    {
+      "match": "DIVISIÓN",
+      "slug": "division-minuscula-2026",
+      "title": "DIVISIÓN MINÚSCULA",
+      "subtitle": "Desde México + Cometa a la Deriva",
+      "venue": "Explanada CC Festiva",
+      "address": "Av. Alfonso Ugarte 1439, Lima",
+      "district": "Lima",
+      "price": "Ver Joinnus",
+      "free": false,
+      "genres": [
+        "rock alternativo"
+      ],
+      "tags": [
+        "Internacional"
+      ],
+      "lineup": [
+        "División Minúscula",
+        "Cometa a la Deriva"
+      ],
+      "poster": "posters/real_division.jpg",
+      "tickets": "https://www.joinnus.com",
+      "ig_post": "https://www.instagram.com/p/Df56ge4lg4j/",
+      "producers": [
+        "Impala Live"
+      ],
+      "note": "Rock alternativo mexicano. Banda invitada: Cometa a la Deriva (también en Kósmika y Pogo)."
     }
   ]
 }
