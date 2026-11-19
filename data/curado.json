@@ -621,6 +621,135 @@
       "start": "2026-12-06T20:00:00-05:00",
       "end": "2026-12-06T23:00:00-05:00",
       "manual": true
+    },
+    {
+      "match": "ROCK PATRIO",
+      "slug": "rock-patrio-2026",
+      "title": "ROCK PATRIO HISTÓRICO II",
+      "subtitle": "6 leyendas, 1 escenario",
+      "venue": "Anfiteatro del Parque de la Exposición",
+      "address": "Jr. Lampa s/n, Lima",
+      "district": "Lima",
+      "price": "Ver Teleticket",
+      "free": false,
+      "genres": [
+        "rock peruano"
+      ],
+      "tags": [
+        "Nacional"
+      ],
+      "lineup": [],
+      "poster": null,
+      "tickets": "https://www.teleticket.com.pe",
+      "ig_post": "https://www.instagram.com/reel/DfaFS-ex7Rd/",
+      "producers": [
+        "Rock Patrio"
+      ],
+      "note": "Platinum agotado. VIP: quedan 150 regulares. Supervip: últimas 20 preventa + 50 regulares. General: últimas 150 preventa + 350 regulares.",
+      "start": "2026-12-19T20:00:00-05:00",
+      "end": "2026-12-19T23:00:00-05:00",
+      "manual": true
+    },
+    {
+      "match": "BLNKO",
+      "slug": "deskontrol-total-2026",
+      "title": "DESKONTROL TOTAL",
+      "subtitle": "BLNKO (MX) + bandas peruanas",
+      "venue": "CC Kantaro",
+      "address": "Lima",
+      "district": "Lima",
+      "price": "Ver Joinnus",
+      "free": false,
+      "genres": [
+        "punk",
+        "emo",
+        "rock alternativo"
+      ],
+      "tags": [
+        "Internacional"
+      ],
+      "lineup": [
+        "BLNKO"
+      ],
+      "poster": null,
+      "tickets": "https://www.joinnus.com",
+      "ig_post": "https://www.instagram.com/reel/Df4_YmuRzSu/",
+      "producers": [
+        "All Star Music"
+      ],
+      "note": "Punk, emo y rock alternativo. Informes: 973 069 989.",
+      "start": "2026-11-21T20:00:00-05:00",
+      "end": "2026-11-21T23:00:00-05:00",
+      "manual": true
+    },
+    {
+      "match": "NAVIDARK",
+      "slug": "navidark-2026",
+      "title": "NAVIDARK LIMA 2026",
+      "subtitle": "6 horas de rock para despedir el año",
+      "venue": "CC Bianca",
+      "address": "Lima",
+      "district": "Lima",
+      "price": "Preventa y Preventa Plus en Joinnus",
+      "free": false,
+      "genres": [
+        "rock",
+        "punk"
+      ],
+      "tags": [
+        "Festival"
+      ],
+      "lineup": [
+        "DPOS",
+        "Maldito",
+        "Antisocial",
+        "Jean Paul Medroa",
+        "Lucy Perez",
+        "Rompiendo Fronteras",
+        "Mis Tristes Vacaciones"
+      ],
+      "poster": "posters/real_navidark.jpg",
+      "tickets": "https://www.joinnus.com",
+      "ig_post": "https://www.instagram.com/p/DfGLERvCeII/",
+      "producers": [
+        "Cayman Records"
+      ],
+      "note": "Preventa Plus incluye showcase + meet and greet (19 nov, Noche de Barranco, +18, 100 lugares).",
+      "start": "2026-12-20T16:00:00-05:00",
+      "end": "2026-12-20T22:00:00-05:00",
+      "manual": true
+    },
+    {
+      "match": "TRIBUTAZO",
+      "slug": "tributazo-2026",
+      "title": "TRIBUTAZO FEST",
+      "subtitle": "2 días · 32 bandas · último pogo del año",
+      "venue": "Vichama Conciertos",
+      "address": "Jr. Carabaya 954, Centro de Lima",
+      "district": "Centro de Lima",
+      "price": "Ver Joinnus",
+      "free": false,
+      "genres": [
+        "tributo",
+        "rock"
+      ],
+      "tags": [
+        "Festival",
+        "Tributo"
+      ],
+      "lineup": [
+        "Sebastian Mayorca (Muse)"
+      ],
+      "poster": "posters/real_tributazo.jpg",
+      "tickets": "https://www.joinnus.com",
+      "ig_post": "https://www.instagram.com/p/Df0XLyQHx5V/",
+      "producers": [
+        "Tributazo Fest"
+      ],
+      "note": "32 bandas en vivo. Informes: 948 100 798.",
+      "start": "2026-12-18T18:00:00-05:00",
+      "end": "2026-12-19T23:00:00-05:00",
+      "manual": true
     }
   ]
 }
