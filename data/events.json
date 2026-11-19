@@ -1,10 +1,10 @@
 {
   "handle": "ruido.de.fondo.3000",
   "ig_url": "https://instagram.com/ruido.de.fondo.3000",
-  "generado": "2026-11-19T11:00:31-05:00",
-  "generado_legible": "19.11.2026 · 11:00",
+  "generado": "2026-11-19T11:16:21-05:00",
+  "generado_legible": "19.11.2026 · 11:16",
   "fuente": "Google Calendar · Música y Conciertos",
-  "total": 24,
+  "total": 26,
   "events": [
     {
       "slug": "quilcazo-17",
@@ -40,6 +40,42 @@
       "note": "Micro libre 8:30-9:30pm. Consumo en el local.",
       "start": "2026-11-20T20:00:00-05:00",
       "end": "2026-11-21T00:00:00-05:00",
+      "countdown": "MAÑANA",
+      "dias": 1,
+      "gcal_link": "",
+      "en_calendario": false,
+      "descripcion_gcal": ""
+    },
+    {
+      "slug": "animal-2026",
+      "title": "A.N.I.M.A.L.",
+      "subtitle": "30 aniversario El Nuevo Camino del Hombre",
+      "venue": "Yield Rock",
+      "address": "Jr. Carabaya 815, Cercado de Lima",
+      "district": "Centro de Lima",
+      "price": "Preventa 2 en Ticketmaster",
+      "free": false,
+      "genres": [
+        "metal",
+        "groove metal"
+      ],
+      "tags": [
+        "Internacional"
+      ],
+      "lineup": [
+        "A.N.I.M.A.L.",
+        "Serial Asesino"
+      ],
+      "poster": "posters/real_animal.jpg",
+      "tickets": "https://www.ticketmaster.pe",
+      "ig_post": "https://www.instagram.com/p/Df6bsubm-vv/",
+      "producers": [
+        "Xaria Music",
+        "Rock en tus Venas"
+      ],
+      "note": "30 años de El Nuevo Camino del Hombre, disco emblema del metal latinoamericano.",
+      "start": "2026-11-20T20:00:00-05:00",
+      "end": "2026-11-20T23:00:00-05:00",
       "countdown": "MAÑANA",
       "dias": 1,
       "gcal_link": "",
@@ -419,6 +455,41 @@
       "note": "Show exclusivo en banda completa. Informes: 910 384 139.",
       "start": "2026-12-04T20:00:00-05:00",
       "end": "2026-12-04T23:00:00-05:00",
+      "countdown": "EN 2 SEMANAS",
+      "dias": 15,
+      "gcal_link": "",
+      "en_calendario": false,
+      "descripcion_gcal": ""
+    },
+    {
+      "slug": "zen-2026",
+      "title": "ZEN",
+      "subtitle": "Último show del año",
+      "venue": "La Noche de Barranco",
+      "address": "Boulevard Sánchez Carrión 199, Barranco",
+      "district": "Barranco",
+      "price": "Early Bird en Joinnus",
+      "price_from": null,
+      "free": false,
+      "genres": [
+        "rock peruano"
+      ],
+      "tags": [
+        "Nacional"
+      ],
+      "lineup": [
+        "Zen",
+        "Andry Bett"
+      ],
+      "poster": "posters/real_zen.jpg",
+      "tickets": "https://www.joinnus.com",
+      "ig_post": "https://www.instagram.com/p/Dfh4o-tqIRn/",
+      "producers": [
+        "Tres Estrellas Booking"
+      ],
+      "note": "Último show de Zen en 2026. Apertura: Andry Bett (Argentina). 9:30pm.",
+      "start": "2026-12-04T21:30:00-05:00",
+      "end": "2026-12-05T00:00:00-05:00",
       "countdown": "EN 2 SEMANAS",
       "dias": 15,
       "gcal_link": "",
